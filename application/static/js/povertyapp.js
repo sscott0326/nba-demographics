@@ -47,7 +47,12 @@ function updateChart(year) {
         };
 
         var plot = [hist_trace];
-        Plotly.newPlot('hist', plot);
+        var layout = {
+            title: "Poverty Rates of NBA Players Birth Cities by Year",
+            xaxis: {title: "Poverty Rate (%)"},
+            yaxis: {title: "Number of Cities"}
+        }
+        Plotly.newPlot('hist', plot, layout);
     })()
 }
 function yearChanged(year) {

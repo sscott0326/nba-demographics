@@ -1,0 +1,126 @@
+,name,birth_city,birth_state,college,height,Latitude (generated),Longitude (generated)
+20,Al Cervi ,Buffalo,New York,,180.0,42.9333,-78.877
+21,Bob Lanier ,Buffalo,New York,St. Bonaventure University,211.0,42.9333,-78.877
+31,Bob Davies ,Harrisburg,Pennsylvania,Seton Hall University,185.0,40.2663,-76.8861
+46,Joe Fulks ,Birmingham,Kentucky,Murray State University,196.0,36.9064438,-88.22364209999998
+48,Harry Gallatin ,Roxana,Illinois,Truman State University,198.0,38.8483,-90.0769
+55,Alex Hannum ,Los Angeles,California,University of Southern California,201.0,34.0544,-118.2439
+56,Gail Goodrich ,Los Angeles,California,"University of California, Los Angeles",185.0,34.0544,-118.2439
+69,Red Holzman ,Brooklyn,New York,City College of New York,178.0,40.6922,-73.9902
+70,Bobby Wanzer ,Brooklyn,New York,Seton Hall University,183.0,40.6922,-73.9902
+71,Lenny Wilkens ,Brooklyn,New York,Providence College,185.0,40.6922,-73.9902
+72,Billy Cunningham ,Brooklyn,New York,University of North Carolina,198.0,40.6922,-73.9902
+73,Connie Hawkins ,Brooklyn,New York,University of Iowa,203.0,40.6922,-73.9902
+75,Bernard King ,Brooklyn,New York,University of Tennessee,201.0,40.6922,-73.9902
+77,Michael Jordan ,Brooklyn,New York,University of North Carolina,198.0,40.6922,-73.9902
+82,Buddy Jeannette ,New Kensington,Pennsylvania,Washington & Jefferson College,180.0,40.5698,-79.7648
+96,Ed Macauley ,St. Louis,Missouri,Saint Louis University,203.0,38.63,-90.19
+100,Slater Martin ,El Mina,Texas,University of Texas at Austin,178.0,30.5596441,-95.4754981
+103,Dick McGuire ,Huntington,New York,St. John's University,183.0,40.8682,-73.4257
+105,George Mikan ,Joliet,Illinois,DePaul University,208.0,41.525,-88.0817
+106,Vern Mikkelsen ,Fresno,California,Hamline University,201.0,36.6714,-119.8155
+125,Andy Phillip ,Granite City,Illinois,University of Illinois at Urbana-Champaign,188.0,38.7014,-90.1487
+126,Jim Pollard ,Oakland,California,Stanford University,193.0,37.8045,-122.2714
+127,Don Barksdale ,Oakland,California,"University of California, Los Angeles",198.0,37.8045,-122.2714
+130,Gary Payton ,Oakland,California,Oregon State University,193.0,37.8045,-122.2714
+134,Arnie Risen ,Williamstown,Kentucky,Ohio State University,206.0,38.6381,-84.5605
+145,Dolph Schayes ,New York,New York,New York University,203.0,40.7648,-73.9808
+146,Bob Cousy ,New York,New York,College of the Holy Cross,185.0,40.7648,-73.9808
+147,Alfred McGuire ,New York,New York,St. John's University,188.0,40.7648,-73.9808
+148,Richie Guerin ,New York,New York,Iona College,193.0,40.7648,-73.9808
+149,Tom Sanders ,New York,New York,New York University,198.0,40.7648,-73.9808
+150,Kareem Abdul-Jabbar ,New York,New York,"University of California, Los Angeles",218.0,40.7648,-73.9808
+151,Tiny Archibald ,New York,New York,University of Texas at El Paso,185.0,40.7648,-73.9808
+156,Chris Mullin ,New York,New York,St. John's University,198.0,40.7648,-73.9808
+179,Paul Arizin ,Philadelphia,Pennsylvania,Villanova University,193.0,40.0115,-75.1327
+180,Tom Gola ,Philadelphia,Pennsylvania,La Salle University,198.0,40.0115,-75.1327
+181,Guy Rodgers ,Philadelphia,Pennsylvania,Temple University,183.0,40.0115,-75.1327
+182,Wilt Chamberlain ,Philadelphia,Pennsylvania,University of Kansas,216.0,40.0115,-75.1327
+183,Earl Monroe ,Philadelphia,Pennsylvania,Winston-Salem State University,190.0,40.0115,-75.1327
+187,Nat Clifton ,Little Rock,Arkansas,Xavier University of Louisiana,198.0,34.7465,-92.2896
+196,Bill Sharman ,Abilene,Texas,University of Southern California,185.0,32.4465,-99.7333
+201,Neil Johnston ,Chillicothe,Ohio,Ohio State University,203.0,39.3331,-82.9824
+228,Bob Houbregs ,Vancouver,Canada,University of Washington,201.0,,
+231,Clyde Lovellette ,Petersburg,Indiana,University of Kansas,206.0,38.492,-87.2786
+234,Isiah Thomas ,Chicago,Illinois,Indiana University,185.0,41.8756,-87.6244
+242,George Yardley ,Hollywood,California,Stanford University,196.0,34.1028,-118.33
+253,Bob Pettit ,Baton Rouge,Louisiana,Louisiana State University,206.0,30.4507,-91.1546
+255,Frank Ramsey ,Corydon,Kentucky,University of Kentucky,190.0,37.7434,-87.7039
+275,Maurice Stokes ,Pittsburgh,Pennsylvania,Saint Francis University,201.0,40.4417,-79.9901
+276,Jack Twyman ,Pittsburgh,Pennsylvania,University of Cincinnati,198.0,40.4417,-79.9901
+283,Cliff Hagan ,Owensboro,Kentucky,University of Kentucky,193.0,37.7742,-87.1133
+284,Tom Heinsohn ,Union City,New Jersey,College of the Holy Cross,201.0,40.7795,-74.0238
+288,Slick Leonard ,Terre Haute,Indiana,Indiana University,190.0,39.4667,-87.4139
+292,Bill Russell ,Monroe,Louisiana,University of San Francisco,208.0,32.5093,-92.1193
+301,Sam Jones ,Wilmington,North Carolina,North Carolina Central University,193.0,34.2257,-77.9447
+310,Elgin Baylor ,Washington,District of Columbia,Seattle University,196.0,38.895,-77.0366
+311,John Thompson ,Washington,District of Columbia,Providence College,208.0,38.895,-77.0366
+312,Dave Bing ,Washington,District of Columbia,Syracuse University,190.0,38.895,-77.0366
+313,Adrian Dantley ,Washington,District of Columbia,University of Notre Dame,196.0,38.895,-77.0366
+320,Wayne Embry ,Springfield,Ohio,Miami University,203.0,39.9242,-83.8088
+323,Hal Greer ,Huntington,West Virginia,Marshall University,188.0,38.4192,-82.4452
+339,Bailey Howell ,Middleton,Tennessee,Mississippi State University,201.0,35.0645,-88.8909
+352,Oscar Robertson ,Charlotte,Tennessee,University of Cincinnati,196.0,36.1773,-87.3397
+353,Jerry West ,Chelyan,West Virginia,West Virginia University,188.0,38.195381,-81.4909497
+354,Walt Bellamy ,New Bern,North Carolina,Indiana University,211.0,35.1085,-77.0441
+374,Zelmo Beaty ,Hillister,Texas,Prairie View A&M University,206.0,30.6677,-94.3813
+378,Dave DeBusschere ,Detroit,Michigan,University of Detroit Mercy,198.0,42.3487,-83.0567
+379,Mel Daniels ,Detroit,Michigan,University of New Mexico,206.0,42.3487,-83.0567
+380,George Gervin ,Detroit,Michigan,Eastern Michigan University,201.0,42.3487,-83.0567
+389,John Havlicek ,Martins Ferry,Ohio,Ohio State University,196.0,40.0959,-80.7245
+393,Don Nelson ,Muskegon,Michigan,University of Iowa,198.0,43.2342,-86.2484
+399,Chet Walker ,Bethlehem,Mississippi,Bradley University,198.0,34.5784341,-89.3275754
+406,Gus Johnson ,Akron,Ohio,University of Idaho,198.0,41.0831,-81.5185
+407,Nate Thurmond ,Akron,Ohio,Bowling Green State University,211.0,41.0831,-81.5185
+410,Jerry Lucas ,Middletown,Ohio,Ohio State University,203.0,39.5151,-84.3983
+434,Willis Reed ,Hico,Louisiana,Grambling State University,206.0,32.7448687,-92.7137631
+438,Rick Barry ,Elizabeth,New Jersey,University of Miami,201.0,40.664,-74.2107
+449,Jerry Sloan ,McLeansboro,Illinois,University of Evansville,196.0,38.09,-88.54
+479,Bill Bradley ,Crystal City,Missouri,Princeton University,196.0,38.2212,-90.379
+487,Walt Frazier ,Atlanta,Georgia,Southern Illinois University,193.0,33.7491,-84.3902
+494,Phil Jackson ,Deer Lodge,Montana,University of North Dakota,203.0,46.3958,-112.73
+502,Pat Riley ,Rome,New York,University of Kentucky,193.0,43.2128,-75.4557
+521,Elvin Hayes ,Rayville,Louisiana,University of Houston,206.0,32.4774,-91.7548
+537,Wes Unseld ,Louisville,Kentucky,University of Louisville,201.0,38.2542,-85.7594
+571,Dave Cowens ,Newport,Kentucky,Florida State University,206.0,39.0889,-84.492
+576,Spencer Haywood ,Silver City,Mississippi,University of Detroit Mercy,203.0,33.0965,-90.4968
+584,Pete Maravich ,Aliquippa,Pennsylvania,Louisiana State University,196.0,40.6102,-80.2677
+587,Calvin Murphy ,Norwalk,Connecticut,Niagara University,175.0,41.1176,-73.4079
+649,Bob McAdoo ,Greensboro,North Carolina,University of North Carolina,206.0,36.0726,-79.792
+737,Bill Walton ,La Mesa,California,"University of California, Los Angeles",211.0,32.7678,-117.0231
+743,Jamaal Wilkes ,Berkeley,California,"University of California, Los Angeles",198.0,37.8708,-122.2729
+813,Louie Dampier ,Indianapolis,Indiana,University of Kentucky,183.0,39.7683,-86.1584
+824,Alex English ,Columbia,South Carolina,University of South Carolina,201.0,34.0007,-81.0343
+826,Julius Erving ,Roosevelt,New York,University of Massachusetts Amherst,201.0,40.6787,-73.589
+831,Artis Gilmore ,Chipley,Florida,Jacksonville University,218.0,30.7819,-85.5385
+839,Dan Issel ,Batavia,Illinois,University of Kentucky,206.0,41.85,-88.3126
+840,Dennis Johnson ,San Pedro,California,Pepperdine University,193.0,33.7359,-118.2923
+856,Moses Malone ,Petersburg,Virginia,,208.0,37.2279,-77.4019
+866,Robert Parish ,Shreveport,Louisiana,Centenary College of Louisiana,213.0,32.5222,-93.7652
+867,Joe Dumars ,Shreveport,Louisiana,McNeese State University,190.0,32.5222,-93.7652
+880,David Thompson ,Shelby,North Carolina,North Carolina State University,193.0,35.2924,-81.5356
+997,Larry Bird ,West Baden,Indiana,Indiana State University,206.0,38.565331799999996,-86.6111026
+1026,Magic Johnson ,Nachitoches,Louisiana,"University of California, Los Angeles",201.0,31.7607195,-93.0862749
+1094,Kevin McHale ,Hibbing,Minnesota,University of Minnesota,208.0,47.4272,-92.9377
+1240,Dominique Wilkins ,Paris,France,University of Georgia,201.0,,
+1242,James Worthy ,Gastonia,North Carolina,University of North Carolina,206.0,35.2621,-81.1873
+1258,Clyde Drexler ,New Orleans,Louisiana,University of Houston,201.0,29.9499,-90.0701
+1284,Ralph Sampson ,Harrisonburg,Virginia,University of Virginia,224.0,38.4493,-78.8689
+1303,Charles Barkley ,Leeds,Alabama,Auburn University,198.0,33.5482,-86.5444
+1330,Hakeem Olajuwon ,Lagos,Nigeria,University of Houston,213.0,,
+1343,John Stockton ,Spokane,Washington,Gonzaga University,185.0,47.6589,-117.4247
+1374,Patrick Ewing ,Kingston,Jamaica,Georgetown University,213.0,,
+1388,Karl Malone ,Summerfield,Louisiana,Louisiana Tech University,206.0,32.912426,-92.8293451
+1459,Dennis Rodman ,Trenton,New Jersey,Southeastern Oklahoma State University,201.0,40.2171,-74.7429
+1508,Reggie Miller ,Riverside,California,"University of California, Los Angeles",201.0,33.9534,-117.3962
+1515,Scottie Pippen ,Hamburg,Arkansas,University of Central Arkansas,203.0,33.2282,-91.7976
+1594,Mitch Richmond ,Fort Lauderdale,Florida,Kansas State University,196.0,26.1223,-80.1434
+1664,Sarunas Marciulionis ,Kaunas,Lithuania,,196.0,,
+1665,Arvydas Sabonis ,Kaunas,Lithuania,,221.0,,
+1677,Drazen Petrovic ,Sibenik,Croatia,,196.0,,
+1681,David Robinson ,Key West,Florida,United States Naval Academy,216.0,24.5626,-81.7724
+1798,Dikembe Mutombo ,Kinshasa,Democratic Republic of the Congo,Georgetown University,218.0,,
+1856,Alonzo Mourning ,Chesapeake,Virginia,Georgetown University,208.0,36.7184,-76.2467
+1858,Shaquille O'Neal ,Newark,New Jersey,Louisiana State University,216.0,40.7357,-74.1724
+2110,Allen Iverson ,Hampton,Virginia,Georgetown University,183.0,37.0301,-76.3452
+2486,Yao Ming ,Shanghai,China,,229.0,,

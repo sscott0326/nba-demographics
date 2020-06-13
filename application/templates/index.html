@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NBA Players</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+</head>
+
+<body onload="initViz();">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 jumbotron text-center">
+                <h1>NBA Players</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="well">
+                    <h5>Player:</h5>
+                    <select id="selPlayer" onchange="playerChanged(this.value)"></select>
+                </div>
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Player Info</h3>
+                    </div>
+                    <div id="player-data" class="panel-body"></div>
+                </div>
+                
+            </div>
+            <div class="col-md-5">
+                <div id="vizContainer" style="width:800px; height:700px;"></div>
+                <div id="line"></div>
+            </div>
+        </div>
+
+    <script>
+        function initViz() {
+            var containerDiv = document.getElementById("vizContainer"),
+                url = "http://public.tableau.com/views/NBAPlayerBirthCities/Sheet1"
+            options = {
+                hideTabs: true,
+                onFirstInteractive: function() {
+                    console.log("Run this code when the viz has finished loading.");
+                }
+            } ;
+
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="{{ url_for('static', filename='js/playerapp.js') }}"></script>
+</body>
+</html>

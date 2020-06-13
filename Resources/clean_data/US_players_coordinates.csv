@@ -1,0 +1,2592 @@
+,Birth City,Birth State,Year Start,Latitude (generated),Longitude (generated)
+0,Sheridan,Wyoming,1952.0,44.7948,-106.8223
+1,Cheyenne,Wyoming,2010.0,41.14,-104.8202
+2,Cheyenne,Wyoming,,41.14,-104.8202
+3,Casper,Wyoming,1950.0,42.8666,-106.3131
+4,Afton,Wyoming,1950.0,42.725,-110.9318
+5,Wauwatosa,Wisconsin,2012.0,43.0494,-88.0079
+6,Wausau,Wisconsin,1973.0,44.9596,-89.6298
+7,Valders,Wisconsin,,44.0661,-87.8843
+8,Superior,Wisconsin,1950.0,46.7208,-92.1041
+9,Sheboygan,Wisconsin,2016.0,43.7508,-87.7145
+10,Rice Lake,Wisconsin,2017.0,45.5028,-91.7332
+11,Randolph,Wisconsin,2012.0,43.5392,-89.0068
+12,Racine,Wisconsin,2006.0,42.7261,-87.7825
+13,Racine,Wisconsin,2003.0,42.7261,-87.7825
+14,Racine,Wisconsin,1995.0,42.7261,-87.7825
+15,Racine,Wisconsin,1973.0,42.7261,-87.7825
+16,Racine,Wisconsin,1947.0,42.7261,-87.7825
+17,Phillips,Wisconsin,1956.0,45.691,-90.3978
+18,Neenah,Wisconsin,1981.0,44.1858,-88.4626
+19,Monroe,Wisconsin,1960.0,42.6018,-89.6392
+20,Milwaukee,Wisconsin,2017.0,43.0115,-87.9735
+21,Milwaukee,Wisconsin,2016.0,43.0115,-87.9735
+22,Milwaukee,Wisconsin,2014.0,43.0115,-87.9735
+23,Milwaukee,Wisconsin,2010.0,43.0115,-87.9735
+24,Milwaukee,Wisconsin,2008.0,43.0115,-87.9735
+25,Milwaukee,Wisconsin,2005.0,43.0115,-87.9735
+26,Milwaukee,Wisconsin,2003.0,43.0115,-87.9735
+27,Milwaukee,Wisconsin,2001.0,43.0115,-87.9735
+28,Milwaukee,Wisconsin,2000.0,43.0115,-87.9735
+29,Milwaukee,Wisconsin,1993.0,43.0115,-87.9735
+30,Milwaukee,Wisconsin,1992.0,43.0115,-87.9735
+31,Milwaukee,Wisconsin,1986.0,43.0115,-87.9735
+32,Milwaukee,Wisconsin,1982.0,43.0115,-87.9735
+33,Milwaukee,Wisconsin,1981.0,43.0115,-87.9735
+34,Milwaukee,Wisconsin,1972.0,43.0115,-87.9735
+35,Milwaukee,Wisconsin,1964.0,43.0115,-87.9735
+36,Madison,Wisconsin,2014.0,43.0748,-89.3838
+37,Madison,Wisconsin,2004.0,43.0748,-89.3838
+38,Madison,Wisconsin,1976.0,43.0748,-89.3838
+39,Lacrosse,Wisconsin,1972.0,43.8014,-91.2396
+40,Kohler,Wisconsin,1988.0,43.7392,-87.7818
+41,Kenosha,Wisconsin,1950.0,42.5847,-87.8212
+42,Janesville,Wisconsin,2009.0,42.7152,-88.9908
+43,Green Bay,Wisconsin,1993.0,44.5299,-88.0248
+44,Fond du Lac,Wisconsin,2006.0,43.7749,-88.4458
+45,Eau Claire,Wisconsin,1983.0,44.8113,-91.4985
+46,Wheeling,West Virginia,1997.0,40.064,-80.7209
+47,Weirton,West Virginia,1969.0,40.419000000000004,-80.5895
+48,Weirton,West Virginia,,40.419000000000004,-80.5895
+49,Princeton,West Virginia,1964.0,37.3663,-81.1026
+50,Parkersburg,West Virginia,2006.0,39.2667,-81.5615
+51,Parkersburg,West Virginia,,39.2667,-81.5615
+52,Oak Hill,West Virginia,1985.0,37.9723,-81.1487
+53,Mullens,West Virginia,1976.0,37.5833,-81.3805
+54,Mullens,West Virginia,1974.0,37.5833,-81.3805
+55,Huntington,West Virginia,1950.0,38.4192,-82.4452
+56,Huntington,West Virginia,,38.4192,-82.4452
+57,Clarksburg,West Virginia,1991.0,39.2806,-80.3445
+58,Chelyan,West Virginia,,38.195381,-81.4909497
+59,Charlestown,West Virginia,1969.0,39.2892,-77.8596
+60,Charleston,West Virginia,1953.0,38.3506,-81.6333
+61,Charleston,West Virginia,1952.0,38.3506,-81.6333
+62,Charleston,West Virginia,,38.3506,-81.6333
+63,Berkley,West Virginia,1976.0,39.62699020000001,-78.2271957
+64,Beckley,West Virginia,2003.0,37.7782,-81.1882
+65,Tacoma,Washington,2015.0,47.2496,-122.4399
+66,Tacoma,Washington,2011.0,47.2496,-122.4399
+67,Tacoma,Washington,1996.0,47.2496,-122.4399
+68,Tacoma,Washington,1982.0,47.2496,-122.4399
+69,Tacoma,Washington,1969.0,47.2496,-122.4399
+70,Stevenson,Washington,1994.0,45.6954,-121.8847
+71,Spokane,Washington,2015.0,47.6589,-117.4247
+72,Spokane,Washington,1989.0,47.6589,-117.4247
+73,Spokane,Washington,1980.0,47.6589,-117.4247
+74,Spokane,Washington,,47.6589,-117.4247
+75,Snohomish,Washington,2010.0,47.918,-122.09
+76,Seattle,Washington,2017.0,47.6038,-122.3301
+77,Seattle,Washington,2014.0,47.6038,-122.3301
+78,Seattle,Washington,2013.0,47.6038,-122.3301
+79,Seattle,Washington,2010.0,47.6038,-122.3301
+80,Seattle,Washington,2008.0,47.6038,-122.3301
+81,Seattle,Washington,2007.0,47.6038,-122.3301
+82,Seattle,Washington,2006.0,47.6038,-122.3301
+83,Seattle,Washington,2001.0,47.6038,-122.3301
+84,Seattle,Washington,2000.0,47.6038,-122.3301
+85,Seattle,Washington,1993.0,47.6038,-122.3301
+86,Seattle,Washington,1988.0,47.6038,-122.3301
+87,Seattle,Washington,1985.0,47.6038,-122.3301
+88,Seattle,Washington,1980.0,47.6038,-122.3301
+89,Seattle,Washington,1978.0,47.6038,-122.3301
+90,Seattle,Washington,1975.0,47.6038,-122.3301
+91,Seattle,Washington,1971.0,47.6038,-122.3301
+92,Seattle,Washington,1968.0,47.6038,-122.3301
+93,Seattle,Washington,,47.6038,-122.3301
+94,Richland,Washington,1996.0,46.2778,-119.2769
+95,Renton,Washington,2015.0,47.4799,-122.2034
+96,Pullman,Washington,1990.0,46.7304,-117.1739
+97,Mount Vernon,Washington,1997.0,48.42,-122.3264
+98,Moses Lake,Washington,1983.0,47.1301,-119.2781
+99,Everett,Washington,1989.0,47.9673,-122.2014
+100,Elma,Washington,1975.0,47.0034,-123.4088
+101,Ellensburg,Washington,1968.0,46.9971,-120.5451
+102,Chelan,Washington,2015.0,47.841,-120.0165
+103,Bremerton,Washington,1988.0,47.5312,-122.734
+104,Bellingham,Washington,1974.0,48.7544,-122.4789
+105,Battle Ground,Washington,2004.0,45.7814,-122.5337
+106,Auburn,Washington,1986.0,47.3075,-122.2302
+107,Aberdeen,Washington,1969.0,46.9754,-123.8157
+108,Woodbridge,Virginia,2013.0,38.6582,-77.2497
+109,Waynesboro,Virginia,1996.0,38.0677,-78.8902
+110,Waynesboro,Virginia,1968.0,38.0677,-78.8902
+111,Waynesboro,Virginia,,38.0677,-78.8902
+112,Warrenton,Virginia,2015.0,38.7135,-77.7954
+113,Virginia Beach,Virginia,1983.0,36.853,-75.9774
+114,Sussex,Virginia,1991.0,36.9058167,-77.2405153
+115,Suffolk,Virginia,1981.0,36.7282,-76.5836
+116,South Boston,Virginia,1988.0,36.6987,-78.9014
+117,Sharps,Virginia,2000.0,37.8240267,-76.7007912
+118,Roanoke,Virginia,2014.0,37.271,-79.9414
+119,Roanoke,Virginia,1994.0,37.271,-79.9414
+120,Roanoke,Virginia,1975.0,37.271,-79.9414
+121,Richmond,Virginia,2012.0,37.5385,-77.4343
+122,Richmond,Virginia,1993.0,37.5385,-77.4343
+123,Richmond,Virginia,1983.0,37.5385,-77.4343
+124,Richmond,Virginia,1980.0,37.5385,-77.4343
+125,Richmond,Virginia,1978.0,37.5385,-77.4343
+126,Richmond,Virginia,1975.0,37.5385,-77.4343
+127,Richmond,Virginia,1974.0,37.5385,-77.4343
+128,Richmond,Virginia,1970.0,37.5385,-77.4343
+129,Portsmouth,Virginia,2017.0,36.8354,-76.2983
+130,Portsmouth,Virginia,2012.0,36.8354,-76.2983
+131,Portsmouth,Virginia,1979.0,36.8354,-76.2983
+132,Petersburg,Virginia,1984.0,37.2279,-77.4019
+133,Petersburg,Virginia,,37.2279,-77.4019
+134,Norfolk,Virginia,1981.0,36.8465,-76.2916
+135,Norfolk,Virginia,1978.0,36.8465,-76.2916
+136,Newport News,Virginia,1985.0,37.0168,-76.4505
+137,Nansemond County,Virginia,1992.0,36.7670936,-76.5307823
+138,Montross,Virginia,2016.0,38.0951,-76.8275
+139,Keokee,Virginia,1959.0,36.859,-82.9041
+140,Henrico Valley,Virginia,2013.0,37.5059332,-77.3324425
+141,Harrisonburg,Virginia,1987.0,38.4493,-78.8689
+142,Harrisonburg,Virginia,,38.4493,-78.8689
+143,Hampton,Virginia,,37.0301,-76.3452
+144,Greenville County,Virginia,1963.0,36.60568860000001,-77.6077865
+145,Greenville County,Virginia,1962.0,36.60568860000001,-77.6077865
+146,Fredericksburg,Virginia,1995.0,38.2968,-77.4834
+147,Fredericksburg,Virginia,,38.2968,-77.4834
+148,Fairfax,Virginia,2015.0,38.8462,-77.3064
+149,Fairfax,Virginia,2013.0,38.8462,-77.3064
+150,Emporia,Virginia,1993.0,36.686,-77.5425
+151,Dumfries,Virginia,2013.0,38.5676,-77.328
+152,Danville,Virginia,1990.0,36.586,-79.395
+153,Danville,Virginia,1987.0,36.586,-79.395
+154,Culpepper,Virginia,1993.0,38.4729632,-77.9962512
+155,Covington,Virginia,1991.0,37.7935,-79.9939
+156,Clarksville,Virginia,1985.0,36.624,-78.5569
+157,Chesapeake,Virginia,2016.0,36.7184,-76.2467
+158,Chesapeake,Virginia,2013.0,36.7184,-76.2467
+159,Chesapeake,Virginia,1989.0,36.7184,-76.2467
+160,Chesapeake,Virginia,,36.7184,-76.2467
+161,Amherst,Virginia,1968.0,37.5851,-79.0514
+162,Amelia,Virginia,1979.0,37.3212714,-77.973865
+163,Alexandria,Virginia,2012.0,38.8051,-77.047
+164,Alexandria,Virginia,2004.0,38.8051,-77.047
+165,Alexandria,Virginia,1985.0,38.8051,-77.047
+166,Salt Lake City,Utah,2008.0,40.766999999999996,-111.8904
+167,Salt Lake City,Utah,2004.0,40.766999999999996,-111.8904
+168,Salt Lake City,Utah,1997.0,40.766999999999996,-111.8904
+169,Salt Lake City,Utah,1994.0,40.766999999999996,-111.8904
+170,Salt Lake City,Utah,1984.0,40.766999999999996,-111.8904
+171,Salt Lake City,Utah,1982.0,40.766999999999996,-111.8904
+172,Salt Lake City,Utah,1979.0,40.766999999999996,-111.8904
+173,Salt Lake City,Utah,1949.0,40.766999999999996,-111.8904
+174,Salt Lake City,Utah,1947.0,40.766999999999996,-111.8904
+175,Salt Lake City,Utah,,40.766999999999996,-111.8904
+176,Provo,Utah,2004.0,40.2338,-111.6585
+177,Provo,Utah,1985.0,40.2338,-111.6585
+178,Provo,Utah,1984.0,40.2338,-111.6585
+179,Provo,Utah,1949.0,40.2338,-111.6585
+180,Ogden,Utah,1984.0,41.223,-111.9738
+181,Ogden,Utah,1982.0,41.223,-111.9738
+182,Murray,Utah,1998.0,40.6668,-111.8884
+183,Wichita Falls,Texas,1992.0,33.9137,-98.4934
+184,Webster,Texas,2016.0,29.5377,-95.1183
+185,Waxahachie,Texas,2001.0,32.3865,-96.8483
+186,Tyler,Texas,2013.0,32.3513,-95.3011
+187,Tyler,Texas,1982.0,32.3513,-95.3011
+188,Texas City,Texas,1965.0,29.3838,-94.9027
+189,Temple,Texas,1999.0,31.0982,-97.3428
+190,San Marcos,Texas,1965.0,29.8826,-97.9406
+191,San Antonio,Texas,2017.0,29.4246,-98.4951
+192,San Antonio,Texas,2016.0,29.4246,-98.4951
+193,San Antonio,Texas,2012.0,29.4246,-98.4951
+194,San Antonio,Texas,2000.0,29.4246,-98.4951
+195,San Antonio,Texas,1999.0,29.4246,-98.4951
+196,San Antonio,Texas,1994.0,29.4246,-98.4951
+197,San Angelo,Texas,1963.0,31.4648,-100.4398
+198,Rosenberg,Texas,2011.0,29.5572,-95.8086
+199,Port Arthur,Texas,1980.0,29.8988,-93.9288
+200,Nederland,Texas,2004.0,29.9744,-93.9924
+201,Nacogdoches,Texas,1950.0,31.5971,-94.5927
+202,Missouri City,Texas,2007.0,29.6186,-95.5377
+203,Lubbock,Texas,2001.0,33.5779,-101.8552
+204,Lubbock,Texas,1984.0,33.5779,-101.8552
+205,Longview,Texas,1998.0,32.5007,-94.7405
+206,Houston,Texas,2017.0,29.7589,-95.3677
+207,Houston,Texas,2016.0,29.7589,-95.3677
+208,Houston,Texas,2015.0,29.7589,-95.3677
+209,Houston,Texas,2014.0,29.7589,-95.3677
+210,Houston,Texas,2012.0,29.7589,-95.3677
+211,Houston,Texas,2011.0,29.7589,-95.3677
+212,Houston,Texas,2009.0,29.7589,-95.3677
+213,Houston,Texas,2008.0,29.7589,-95.3677
+214,Houston,Texas,2007.0,29.7589,-95.3677
+215,Houston,Texas,2006.0,29.7589,-95.3677
+216,Houston,Texas,2005.0,29.7589,-95.3677
+217,Houston,Texas,2000.0,29.7589,-95.3677
+218,Houston,Texas,1995.0,29.7589,-95.3677
+219,Houston,Texas,1988.0,29.7589,-95.3677
+220,Houston,Texas,1985.0,29.7589,-95.3677
+221,Houston,Texas,1984.0,29.7589,-95.3677
+222,Houston,Texas,1982.0,29.7589,-95.3677
+223,Houston,Texas,1974.0,29.7589,-95.3677
+224,Houston,Texas,1973.0,29.7589,-95.3677
+225,Houston,Texas,1971.0,29.7589,-95.3677
+226,Houston,Texas,1968.0,29.7589,-95.3677
+227,Houston,Texas,1965.0,29.7589,-95.3677
+228,Houston,Texas,,29.7589,-95.3677
+229,Hillsboro,Texas,2008.0,32.010999999999996,-97.13
+230,Hillister,Texas,,30.6677,-94.3813
+231,Herleton,Texas,1971.0,32.67653060000001,-94.5746473
+232,Harlingen,Texas,1977.0,26.1906,-97.6961
+233,Garland,Texas,1990.0,32.9126,-96.6389
+234,Galveston,Texas,1999.0,29.2993,-94.7946
+235,Galveston,Texas,,29.2993,-94.7946
+236,Friendswood,Texas,2006.0,29.5294,-95.20100000000001
+237,Fort Worth,Texas,2008.0,32.7532,-97.3327
+238,Fort Worth,Texas,1993.0,32.7532,-97.3327
+239,Fort Worth,Texas,1970.0,32.7532,-97.3327
+240,Fort Worth,Texas,1967.0,32.7532,-97.3327
+241,Fort Worth,Texas,1949.0,32.7532,-97.3327
+242,Floydada,Texas,1949.0,33.9845,-101.3377
+243,Flower Mound,Texas,2015.0,33.0146,-97.09700000000001
+244,Falls County,Texas,1990.0,31.1636412,-97.0068393
+245,El Paso,Texas,1997.0,31.8064,-106.2221
+246,El Mina,Texas,,30.5596441,-95.4754981
+247,Edge,Texas,1950.0,30.8899124,-96.2946839
+248,Denton,Texas,1997.0,33.215,-97.1331
+249,Denton,Texas,1996.0,33.215,-97.1331
+250,Del Rio,Texas,1991.0,29.3627,-100.8968
+251,Dallas,Texas,2016.0,32.7763,-96.7969
+252,Dallas,Texas,2015.0,32.7763,-96.7969
+253,Dallas,Texas,2014.0,32.7763,-96.7969
+254,Dallas,Texas,2012.0,32.7763,-96.7969
+255,Dallas,Texas,2011.0,32.7763,-96.7969
+256,Dallas,Texas,2010.0,32.7763,-96.7969
+257,Dallas,Texas,2009.0,32.7763,-96.7969
+258,Dallas,Texas,2008.0,32.7763,-96.7969
+259,Dallas,Texas,2007.0,32.7763,-96.7969
+260,Dallas,Texas,2005.0,32.7763,-96.7969
+261,Dallas,Texas,2004.0,32.7763,-96.7969
+262,Dallas,Texas,2002.0,32.7763,-96.7969
+263,Dallas,Texas,1998.0,32.7763,-96.7969
+264,Dallas,Texas,1996.0,32.7763,-96.7969
+265,Dallas,Texas,1995.0,32.7763,-96.7969
+266,Dallas,Texas,1994.0,32.7763,-96.7969
+267,Dallas,Texas,1993.0,32.7763,-96.7969
+268,Dallas,Texas,1986.0,32.7763,-96.7969
+269,Dallas,Texas,1983.0,32.7763,-96.7969
+270,Dallas,Texas,1982.0,32.7763,-96.7969
+271,Dallas,Texas,1981.0,32.7763,-96.7969
+272,Dallas,Texas,1977.0,32.7763,-96.7969
+273,Dallas,Texas,1966.0,32.7763,-96.7969
+274,Dallas,Texas,1957.0,32.7763,-96.7969
+275,Dallas,Texas,1949.0,32.7763,-96.7969
+276,Crockett,Texas,2009.0,31.318,-95.4576
+277,Corsicana,Texas,2011.0,32.0913,-96.4647
+278,Corsicana,Texas,2003.0,32.0913,-96.4647
+279,Corpus Christi,Texas,1973.0,27.8003,-97.3956
+280,Corpus Christi,Texas,,27.8003,-97.3956
+281,Broaddus,Texas,1983.0,31.3069,-94.2691
+282,Bonham,Texas,1968.0,33.5773,-96.1783
+283,Bedford,Texas,2016.0,32.844,-97.1431
+284,Beaumont,Texas,1985.0,30.086,-94.1018
+285,Beaumont,Texas,1954.0,30.086,-94.1018
+286,Beaumont,Texas,,30.086,-94.1018
+287,Austin,Texas,1964.0,30.2711,-97.7437
+288,Arlington,Texas,2014.0,32.7356,-97.1071
+289,Albany,Texas,1947.0,32.7235,-99.2973
+290,Abilene,Texas,,32.4465,-99.7333
+291,Somerville,Tennessee,1984.0,35.2437,-89.3501
+292,Smyrna,Tennessee,1984.0,35.9828,-86.5186
+293,Portland,Tennessee,2008.0,36.5817,-86.5164
+294,Parsons,Tennessee,1981.0,35.6498,-88.1267
+295,Oak Ridge,Tennessee,1979.0,36.0104,-84.2696
+296,Nashville,Tennessee,2013.0,36.1622,-86.7744
+297,Nashville,Tennessee,2005.0,36.1622,-86.7744
+298,Nashville,Tennessee,1999.0,36.1622,-86.7744
+299,Nashville,Tennessee,1998.0,36.1622,-86.7744
+300,Nashville,Tennessee,1995.0,36.1622,-86.7744
+301,Nashville,Tennessee,1975.0,36.1622,-86.7744
+302,Nashville,Tennessee,1972.0,36.1622,-86.7744
+303,Nashville,Tennessee,1967.0,36.1622,-86.7744
+304,Nashville,Tennessee,1965.0,36.1622,-86.7744
+305,Nashville,Tennessee,,36.1622,-86.7744
+306,Mt. Juliet,Tennessee,1950.0,36.200055,-86.5186054
+307,Millington,Tennessee,1989.0,35.3415,-89.8973
+308,Middleton,Tennessee,,35.0645,-88.8909
+309,Memphis,Tennessee,2016.0,35.149,-90.0516
+310,Memphis,Tennessee,2015.0,35.149,-90.0516
+311,Memphis,Tennessee,2014.0,35.149,-90.0516
+312,Memphis,Tennessee,2012.0,35.149,-90.0516
+313,Memphis,Tennessee,2010.0,35.149,-90.0516
+314,Memphis,Tennessee,2007.0,35.149,-90.0516
+315,Memphis,Tennessee,2005.0,35.149,-90.0516
+316,Memphis,Tennessee,2003.0,35.149,-90.0516
+317,Memphis,Tennessee,1998.0,35.149,-90.0516
+318,Memphis,Tennessee,1997.0,35.149,-90.0516
+319,Memphis,Tennessee,1996.0,35.149,-90.0516
+320,Memphis,Tennessee,1994.0,35.149,-90.0516
+321,Memphis,Tennessee,1992.0,35.149,-90.0516
+322,Memphis,Tennessee,1988.0,35.149,-90.0516
+323,Memphis,Tennessee,1987.0,35.149,-90.0516
+324,Memphis,Tennessee,1985.0,35.149,-90.0516
+325,Memphis,Tennessee,1984.0,35.149,-90.0516
+326,Memphis,Tennessee,1983.0,35.149,-90.0516
+327,Memphis,Tennessee,1982.0,35.149,-90.0516
+328,Memphis,Tennessee,1979.0,35.149,-90.0516
+329,Memphis,Tennessee,1972.0,35.149,-90.0516
+330,Memphis,Tennessee,1970.0,35.149,-90.0516
+331,Memphis,Tennessee,,35.149,-90.0516
+332,Loblesville,Tennessee,2002.0,35.7720103,-87.78391289999999
+333,Linden,Tennessee,1950.0,35.6173,-87.8395
+334,Linden,Tennessee,,35.6173,-87.8395
+335,Lewisburg,Tennessee,2003.0,35.4492,-86.7889
+336,Knoxville,Tennessee,1990.0,35.9604,-83.921
+337,Knoxville,Tennessee,1982.0,35.9604,-83.921
+338,Hendersonville,Tennessee,2017.0,36.3048,-86.62
+339,Dresden,Tennessee,1994.0,36.2915,-88.7081
+340,Covington,Tennessee,1997.0,35.5642,-89.6465
+341,Coffee County,Tennessee,1949.0,35.4576849,-86.05296039999999
+342,Cleveland,Tennessee,2003.0,35.1595,-84.8766
+343,Cleveland,Tennessee,1994.0,35.1595,-84.8766
+344,Cleveland,Tennessee,1978.0,35.1595,-84.8766
+345,Clarksville,Tennessee,2002.0,36.5286,-87.3099
+346,Chattanooga,Tennessee,1998.0,35.0456,-85.3097
+347,Chattanooga,Tennessee,1994.0,35.0456,-85.3097
+348,Chattanooga,Tennessee,1978.0,35.0456,-85.3097
+349,Chattanooga,Tennessee,,35.0456,-85.3097
+350,Charlotte,Tennessee,,36.1773,-87.3397
+351,Brownsville,Tennessee,1969.0,35.594,-89.2623
+352,Bells,Tennessee,1980.0,35.7112,-89.0876
+353,Antioch,Tennessee,2016.0,36.0601,-86.6722
+354,Tripp,South Dakota,2005.0,43.2255,-97.9659
+355,Sioux Falls,South Dakota,1984.0,43.55,-96.7003
+356,Mitchell,South Dakota,2001.0,43.7095,-98.0254
+357,Brookings,South Dakota,1949.0,44.3115,-96.7984
+358,Britton,South Dakota,1956.0,45.7916,-97.7509
+359,Williamsburg County,South Carolina,1984.0,33.62936060000001,-79.6502105
+360,Walterboro,South Carolina,1972.0,32.9052,-80.6668
+361,Union,South Carolina,1972.0,34.7152,-81.6237
+362,Sumter,South Carolina,1992.0,33.9204,-80.3415
+363,Ritter,South Carolina,1991.0,32.7896202,-80.6303822
+364,Ritter,South Carolina,,32.7896202,-80.6303822
+365,Plymouth,South Carolina,1981.0,32.7888717,-79.99114759999999
+366,Orangeburg,South Carolina,2000.0,33.4918,-80.8556
+367,Orangeburg,South Carolina,1999.0,33.4918,-80.8556
+368,Newberry,South Carolina,2011.0,34.2753,-81.6189
+369,Newberry,South Carolina,1975.0,34.2753,-81.6189
+370,Myrtle Beach,South Carolina,2008.0,33.6956,-78.89
+371,Mauldin,South Carolina,1996.0,34.7787,-82.3101
+372,Marion,South Carolina,2006.0,34.1782,-79.4006
+373,Hopkins,South Carolina,1992.0,33.81,-80.15
+374,Greenville,South Carolina,1999.0,34.8514,-82.3985
+375,Greenville,South Carolina,1989.0,34.8514,-82.3985
+376,Greenville,South Carolina,1979.0,34.8514,-82.3985
+377,Greenville,South Carolina,1976.0,34.8514,-82.3985
+378,Columbia,South Carolina,1998.0,34.0007,-81.0343
+379,Columbia,South Carolina,1997.0,34.0007,-81.0343
+380,Columbia,South Carolina,1986.0,34.0007,-81.0343
+381,Columbia,South Carolina,1985.0,34.0007,-81.0343
+382,Columbia,South Carolina,1975.0,34.0007,-81.0343
+383,Columbia,South Carolina,,34.0007,-81.0343
+384,Charleston,South Carolina,2013.0,32.7876,-79.9403
+385,Charleston,South Carolina,2006.0,32.7876,-79.9403
+386,Charleston,South Carolina,2002.0,32.7876,-79.9403
+387,Charleston,South Carolina,2000.0,32.7876,-79.9403
+388,Beaufort,South Carolina,1992.0,32.4316,-80.6698
+389,Anderson,South Carolina,1982.0,34.5069,-82.6506
+390,West Warwick,Rhode Island,1989.0,41.7064,-71.5237
+391,Providence,Rhode Island,2014.0,41.824,-71.4128
+392,Providence,Rhode Island,1978.0,41.824,-71.4128
+393,Providence,Rhode Island,1975.0,41.824,-71.4128
+394,Providence,Rhode Island,,41.824,-71.4128
+395,North Providence,Rhode Island,1974.0,41.8501,-71.4662
+396,Wynnewood,Pennsylvania,2010.0,40.0029,-75.2707
+397,Wilkinsburg,Pennsylvania,1953.0,40.4417,-79.882
+398,Wilkes-Barre,Pennsylvania,1996.0,41.2459,-75.8813
+399,West Mifflin,Pennsylvania,1954.0,40.3634,-79.8664
+400,West Chester,Pennsylvania,1984.0,39.9597,-75.60600000000001
+401,Uniontown,Pennsylvania,1975.0,39.9001,-79.7164
+402,Uniontown,Pennsylvania,1969.0,39.9001,-79.7164
+403,Swissvale,Pennsylvania,1954.0,40.4237,-79.8828
+404,Sharon,Pennsylvania,1967.0,41.2331,-80.4934
+405,Sharon,Pennsylvania,1966.0,41.2331,-80.4934
+406,Sewickley,Pennsylvania,1977.0,40.5365,-80.1845
+407,Reading,Pennsylvania,1996.0,40.3353,-75.9279
+408,Reading,Pennsylvania,1995.0,40.3353,-75.9279
+409,Pottstown,Pennsylvania,1956.0,40.2453,-75.6496
+410,Portage,Pennsylvania,1963.0,40.3887,-78.6722
+411,Plymouth,Pennsylvania,1951.0,41.2404,-75.9446
+412,Pittsburgh,Pennsylvania,2010.0,40.4417,-79.9901
+413,Pittsburgh,Pennsylvania,2004.0,40.4417,-79.9901
+414,Pittsburgh,Pennsylvania,1999.0,40.4417,-79.9901
+415,Pittsburgh,Pennsylvania,1988.0,40.4417,-79.9901
+416,Pittsburgh,Pennsylvania,1979.0,40.4417,-79.9901
+417,Pittsburgh,Pennsylvania,1976.0,40.4417,-79.9901
+418,Pittsburgh,Pennsylvania,1975.0,40.4417,-79.9901
+419,Pittsburgh,Pennsylvania,1972.0,40.4417,-79.9901
+420,Pittsburgh,Pennsylvania,1971.0,40.4417,-79.9901
+421,Pittsburgh,Pennsylvania,,40.4417,-79.9901
+422,Philadelphia,Pennsylvania,2014.0,40.0115,-75.1327
+423,Philadelphia,Pennsylvania,2013.0,40.0115,-75.1327
+424,Philadelphia,Pennsylvania,2011.0,40.0115,-75.1327
+425,Philadelphia,Pennsylvania,2009.0,40.0115,-75.1327
+426,Philadelphia,Pennsylvania,2007.0,40.0115,-75.1327
+427,Philadelphia,Pennsylvania,2006.0,40.0115,-75.1327
+428,Philadelphia,Pennsylvania,2003.0,40.0115,-75.1327
+429,Philadelphia,Pennsylvania,2002.0,40.0115,-75.1327
+430,Philadelphia,Pennsylvania,2001.0,40.0115,-75.1327
+431,Philadelphia,Pennsylvania,2000.0,40.0115,-75.1327
+432,Philadelphia,Pennsylvania,1999.0,40.0115,-75.1327
+433,Philadelphia,Pennsylvania,1998.0,40.0115,-75.1327
+434,Philadelphia,Pennsylvania,1997.0,40.0115,-75.1327
+435,Philadelphia,Pennsylvania,1996.0,40.0115,-75.1327
+436,Philadelphia,Pennsylvania,1995.0,40.0115,-75.1327
+437,Philadelphia,Pennsylvania,1993.0,40.0115,-75.1327
+438,Philadelphia,Pennsylvania,1992.0,40.0115,-75.1327
+439,Philadelphia,Pennsylvania,1991.0,40.0115,-75.1327
+440,Philadelphia,Pennsylvania,1990.0,40.0115,-75.1327
+441,Philadelphia,Pennsylvania,1989.0,40.0115,-75.1327
+442,Philadelphia,Pennsylvania,1988.0,40.0115,-75.1327
+443,Philadelphia,Pennsylvania,1983.0,40.0115,-75.1327
+444,Philadelphia,Pennsylvania,1982.0,40.0115,-75.1327
+445,Philadelphia,Pennsylvania,1981.0,40.0115,-75.1327
+446,Philadelphia,Pennsylvania,1979.0,40.0115,-75.1327
+447,Philadelphia,Pennsylvania,1978.0,40.0115,-75.1327
+448,Philadelphia,Pennsylvania,1977.0,40.0115,-75.1327
+449,Philadelphia,Pennsylvania,1976.0,40.0115,-75.1327
+450,Philadelphia,Pennsylvania,1975.0,40.0115,-75.1327
+451,Philadelphia,Pennsylvania,1974.0,40.0115,-75.1327
+452,Philadelphia,Pennsylvania,1973.0,40.0115,-75.1327
+453,Philadelphia,Pennsylvania,1972.0,40.0115,-75.1327
+454,Philadelphia,Pennsylvania,1971.0,40.0115,-75.1327
+455,Philadelphia,Pennsylvania,1970.0,40.0115,-75.1327
+456,Philadelphia,Pennsylvania,1967.0,40.0115,-75.1327
+457,Philadelphia,Pennsylvania,1966.0,40.0115,-75.1327
+458,Philadelphia,Pennsylvania,1963.0,40.0115,-75.1327
+459,Philadelphia,Pennsylvania,1962.0,40.0115,-75.1327
+460,Philadelphia,Pennsylvania,1961.0,40.0115,-75.1327
+461,Philadelphia,Pennsylvania,1957.0,40.0115,-75.1327
+462,Philadelphia,Pennsylvania,1955.0,40.0115,-75.1327
+463,Philadelphia,Pennsylvania,1954.0,40.0115,-75.1327
+464,Philadelphia,Pennsylvania,1950.0,40.0115,-75.1327
+465,Philadelphia,Pennsylvania,1947.0,40.0115,-75.1327
+466,Philadelphia,Pennsylvania,,40.0115,-75.1327
+467,Penn Hills,Pennsylvania,1974.0,40.4729,-79.8177
+468,Palmerton,Pennsylvania,1953.0,40.8015,-75.6102
+469,Orefield,Pennsylvania,1984.0,40.6348,-75.5844
+470,New Kensington,Pennsylvania,,40.5698,-79.7648
+471,New Brighton,Pennsylvania,1987.0,40.7304,-80.3101
+472,Morrisville,Pennsylvania,2012.0,40.2115,-74.7879
+473,Monaca,Pennsylvania,1978.0,40.6873,-80.2715
+474,Monaca,Pennsylvania,,40.6873,-80.2715
+475,Millersville,Pennsylvania,1977.0,39.998000000000005,-76.3545
+476,Mechanicsburg,Pennsylvania,1979.0,40.2102,-77.0047
+477,McKeesport,Pennsylvania,1953.0,40.3478,-79.8642
+478,McKees Rocks,Pennsylvania,1992.0,40.44,-80.15
+479,Mahanoy City,Pennsylvania,1953.0,40.8126,-76.1416
+480,Mahanoy City,Pennsylvania,1947.0,40.8126,-76.1416
+481,Luzerne,Pennsylvania,1948.0,41.2856,-75.90100000000001
+482,Levittown,Pennsylvania,1975.0,40.1551,-74.8288
+483,Lebanon,Pennsylvania,1985.0,40.3465,-76.4284
+484,Lancaster,Pennsylvania,2016.0,40.0381,-76.3057
+485,Kingston,Pennsylvania,1989.0,41.2617,-75.8969
+486,Johnstown,Pennsylvania,1980.0,40.3267,-78.922
+487,Johnstown,Pennsylvania,1947.0,40.3267,-78.922
+488,Holland,Pennsylvania,2006.0,40.2010288,-74.9722322
+489,Hershey,Pennsylvania,1973.0,40.2855,-76.6506
+490,Harrisburg,Pennsylvania,2001.0,40.2663,-76.8861
+491,Harrisburg,Pennsylvania,1987.0,40.2663,-76.8861
+492,Harrisburg,Pennsylvania,1973.0,40.2663,-76.8861
+493,Harrisburg,Pennsylvania,,40.2663,-76.8861
+494,Erie,Pennsylvania,1979.0,42.1291,-80.0852
+495,Erie,Pennsylvania,1955.0,42.1291,-80.0852
+496,Easton,Pennsylvania,1966.0,40.6916,-75.21
+497,Duryea,Pennsylvania,1960.0,41.34,-75.77
+498,Darby,Pennsylvania,1971.0,39.9184,-75.2591
+499,Coatesville,Pennsylvania,2000.0,39.9832,-75.8238
+500,Clairton,Pennsylvania,,40.2923,-79.8817
+501,Chester,Pennsylvania,2016.0,39.8496,-75.3557
+502,Chester,Pennsylvania,2010.0,39.8496,-75.3557
+503,Chester,Pennsylvania,2005.0,39.8496,-75.3557
+504,Chester,Pennsylvania,1962.0,39.8496,-75.3557
+505,Carlisle,Pennsylvania,1992.0,40.2018,-77.1894
+506,Carlisle,Pennsylvania,1990.0,40.2018,-77.1894
+507,Butler,Pennsylvania,1987.0,40.861,-79.8952
+508,Braddock,Pennsylvania,1975.0,40.4034,-79.8684
+509,Bethlehem,Pennsylvania,2016.0,40.6179,-75.3787
+510,Ardmore,Pennsylvania,1982.0,40.0068,-75.2855
+511,Altoona,Pennsylvania,1992.0,40.5187,-78.3947
+512,Altoona,Pennsylvania,1990.0,40.5187,-78.3947
+513,Altoona,Pennsylvania,1981.0,40.5187,-78.3947
+514,Allentown,Pennsylvania,2007.0,40.6022,-75.4713
+515,Aliquippa,Pennsylvania,,40.6102,-80.2677
+516,Portland,Oregon,2017.0,45.5202,-122.6742
+517,Portland,Oregon,2015.0,45.5202,-122.6742
+518,Portland,Oregon,2013.0,45.5202,-122.6742
+519,Portland,Oregon,2008.0,45.5202,-122.6742
+520,Portland,Oregon,2007.0,45.5202,-122.6742
+521,Portland,Oregon,2006.0,45.5202,-122.6742
+522,Portland,Oregon,2004.0,45.5202,-122.6742
+523,Portland,Oregon,2003.0,45.5202,-122.6742
+524,Portland,Oregon,1996.0,45.5202,-122.6742
+525,Portland,Oregon,1992.0,45.5202,-122.6742
+526,Portland,Oregon,1977.0,45.5202,-122.6742
+527,Portland,Oregon,1972.0,45.5202,-122.6742
+528,Portland,Oregon,1963.0,45.5202,-122.6742
+529,Portland,Oregon,1959.0,45.5202,-122.6742
+530,Portland,Oregon,,45.5202,-122.6742
+531,Medford,Oregon,2013.0,42.3264,-122.8719
+532,Medford,Oregon,1949.0,42.3264,-122.8719
+533,McMinnville,Oregon,1985.0,45.211000000000006,-123.1976
+534,Eugene,Oregon,1982.0,44.0505,-123.0951
+535,Coos Bay,Oregon,1965.0,43.3665,-124.2179
+536,Washington,Oklahoma,1950.0,35.059,-97.4846
+537,Tulsa,Oklahoma,2003.0,36.1012,-95.9251
+538,Tulsa,Oklahoma,2001.0,36.1012,-95.9251
+539,Tulsa,Oklahoma,1998.0,36.1012,-95.9251
+540,Tulsa,Oklahoma,1996.0,36.1012,-95.9251
+541,Tulsa,Oklahoma,1993.0,36.1012,-95.9251
+542,Tulsa,Oklahoma,1989.0,36.1012,-95.9251
+543,Tulsa,Oklahoma,1986.0,36.1012,-95.9251
+544,Tulsa,Oklahoma,1964.0,36.1012,-95.9251
+545,Tulsa,Oklahoma,,36.1012,-95.9251
+546,Shawnee,Oklahoma,1993.0,35.3273,-96.9253
+547,Rocky,Oklahoma,1965.0,35.157,-99.0604
+548,Oklahoma City,Oklahoma,2012.0,35.473,-97.5171
+549,Oklahoma City,Oklahoma,2011.0,35.473,-97.5171
+550,Oklahoma City,Oklahoma,2010.0,35.473,-97.5171
+551,Oklahoma City,Oklahoma,2009.0,35.473,-97.5171
+552,Oklahoma City,Oklahoma,1992.0,35.473,-97.5171
+553,Oklahoma City,Oklahoma,1985.0,35.473,-97.5171
+554,Oklahoma City,Oklahoma,1984.0,35.473,-97.5171
+555,Oklahoma City,Oklahoma,1969.0,35.473,-97.5171
+556,Oklahoma City,Oklahoma,1959.0,35.473,-97.5171
+557,Muskogee,Oklahoma,1953.0,35.663000000000004,-95.3928
+558,Lawton,Oklahoma,2000.0,34.6087,-98.3903
+559,Lawton,Oklahoma,1990.0,34.6087,-98.3903
+560,Hollis,Oklahoma,1986.0,34.6884,-99.912
+561,Harrah,Oklahoma,1959.0,35.4895,-97.1636
+562,Edmond,Oklahoma,2016.0,35.6571,-97.4649
+563,Edmond,Oklahoma,2011.0,35.6571,-97.4649
+564,Bartlesville,Oklahoma,1987.0,36.7473,-95.9808
+565,Youngstown,Ohio,2016.0,41.0998,-80.6495
+566,West Jefferson,Ohio,1954.0,39.9448,-83.2688
+567,Warrensville Heights,Ohio,1987.0,41.4354,-81.5148
+568,Warren,Ohio,2005.0,41.2376,-80.8184
+569,Warren,Ohio,1981.0,41.2376,-80.8184
+570,Versailles,Ohio,1949.0,40.2225,-84.4844
+571,Versailles,Ohio,,40.2225,-84.4844
+572,Trotwood,Ohio,2012.0,39.7973,-84.3113
+573,Toledo,Ohio,2013.0,41.6787,-83.5127
+574,Toledo,Ohio,1996.0,41.6787,-83.5127
+575,Toledo,Ohio,1993.0,41.6787,-83.5127
+576,Toledo,Ohio,1989.0,41.6787,-83.5127
+577,Toledo,Ohio,1988.0,41.6787,-83.5127
+578,Toledo,Ohio,1981.0,41.6787,-83.5127
+579,Toledo,Ohio,1980.0,41.6787,-83.5127
+580,Toledo,Ohio,1970.0,41.6787,-83.5127
+581,Toledo,Ohio,1965.0,41.6787,-83.5127
+582,Toledo,Ohio,1948.0,41.6787,-83.5127
+583,Toledo,Ohio,,41.6787,-83.5127
+584,Steubenville,Ohio,1995.0,40.3698,-80.634
+585,Springfield,Ohio,1981.0,39.9242,-83.8088
+586,Springfield,Ohio,1969.0,39.9242,-83.8088
+587,Springfield,Ohio,,39.9242,-83.8088
+588,Shelby,Ohio,1964.0,40.8814,-82.6618
+589,Sandusky,Ohio,1977.0,41.4489,-82.708
+590,Reynoldsburg,Ohio,2000.0,39.9548,-82.8121
+591,Painesville,Ohio,1951.0,41.7245,-81.2457
+592,North Canton,Ohio,1967.0,40.8759,-81.4023
+593,Newark,Ohio,1950.0,40.0581,-82.4013
+594,New Knoxville,Ohio,2000.0,40.4937,-84.3147
+595,Middletown,Ohio,1994.0,39.5151,-84.3983
+596,Middletown,Ohio,1981.0,39.5151,-84.3983
+597,Middletown,Ohio,,39.5151,-84.3983
+598,Martins Ferry,Ohio,1950.0,40.0959,-80.7245
+599,Martins Ferry,Ohio,,40.0959,-80.7245
+600,Lima,Ohio,1982.0,40.7426,-84.1052
+601,Lexington,Ohio,1997.0,40.6786691,-82.5823931
+602,Lebanon,Ohio,1999.0,39.4353,-84.20299999999999
+603,Lancaster,Ohio,1991.0,39.7137,-82.5993
+604,Kelleys Island,Ohio,1951.0,41.597,-82.7102
+605,Jamestown,Ohio,1965.0,39.6581,-83.7349
+606,Ironton,Ohio,1949.0,38.5367,-82.6829
+607,Hamilton,Ohio,1976.0,39.3995,-84.5613
+608,Greenfield,Ohio,1950.0,39.352,-83.3827
+609,Euclid,Ohio,1982.0,41.5931,-81.5268
+610,Dayton,Ohio,2015.0,39.7589,-84.1916
+611,Dayton,Ohio,2012.0,39.7589,-84.1916
+612,Dayton,Ohio,1999.0,39.7589,-84.1916
+613,Dayton,Ohio,1997.0,39.7589,-84.1916
+614,Dayton,Ohio,1992.0,39.7589,-84.1916
+615,Dayton,Ohio,1987.0,39.7589,-84.1916
+616,Dayton,Ohio,1984.0,39.7589,-84.1916
+617,Dayton,Ohio,1983.0,39.7589,-84.1916
+618,Dayton,Ohio,1979.0,39.7589,-84.1916
+619,Dayton,Ohio,1975.0,39.7589,-84.1916
+620,Dayton,Ohio,1969.0,39.7589,-84.1916
+621,Dayton,Ohio,1968.0,39.7589,-84.1916
+622,Dayton,Ohio,1966.0,39.7589,-84.1916
+623,Dayton,Ohio,1960.0,39.7589,-84.1916
+624,Dayton,Ohio,1955.0,39.7589,-84.1916
+625,Dayton,Ohio,1953.0,39.7589,-84.1916
+626,Dayton,Ohio,,39.7589,-84.1916
+627,Columbus,Ohio,2017.0,39.9623,-83.0007
+628,Columbus,Ohio,2014.0,39.9623,-83.0007
+629,Columbus,Ohio,2013.0,39.9623,-83.0007
+630,Columbus,Ohio,2006.0,39.9623,-83.0007
+631,Columbus,Ohio,2001.0,39.9623,-83.0007
+632,Columbus,Ohio,1998.0,39.9623,-83.0007
+633,Columbus,Ohio,1997.0,39.9623,-83.0007
+634,Columbus,Ohio,1996.0,39.9623,-83.0007
+635,Columbus,Ohio,1995.0,39.9623,-83.0007
+636,Columbus,Ohio,1988.0,39.9623,-83.0007
+637,Columbus,Ohio,1984.0,39.9623,-83.0007
+638,Columbus,Ohio,1982.0,39.9623,-83.0007
+639,Columbus,Ohio,1975.0,39.9623,-83.0007
+640,Columbus,Ohio,1974.0,39.9623,-83.0007
+641,Columbus,Ohio,1965.0,39.9623,-83.0007
+642,Cleveland Heights,Ohio,1989.0,41.5201,-81.5562
+643,Cleveland,Ohio,2000.0,41.5052,-81.6934
+644,Cleveland,Ohio,1999.0,41.5052,-81.6934
+645,Cleveland,Ohio,1994.0,41.5052,-81.6934
+646,Cleveland,Ohio,1988.0,41.5052,-81.6934
+647,Cleveland,Ohio,1987.0,41.5052,-81.6934
+648,Cleveland,Ohio,1986.0,41.5052,-81.6934
+649,Cleveland,Ohio,1983.0,41.5052,-81.6934
+650,Cleveland,Ohio,1982.0,41.5052,-81.6934
+651,Cleveland,Ohio,1980.0,41.5052,-81.6934
+652,Cleveland,Ohio,1979.0,41.5052,-81.6934
+653,Cleveland,Ohio,1978.0,41.5052,-81.6934
+654,Cleveland,Ohio,1975.0,41.5052,-81.6934
+655,Cleveland,Ohio,1970.0,41.5052,-81.6934
+656,Cleveland,Ohio,1969.0,41.5052,-81.6934
+657,Cleveland,Ohio,1968.0,41.5052,-81.6934
+658,Cincinnati,Ohio,2017.0,39.1015,-84.5125
+659,Cincinnati,Ohio,2014.0,39.1015,-84.5125
+660,Cincinnati,Ohio,2011.0,39.1015,-84.5125
+661,Cincinnati,Ohio,2007.0,39.1015,-84.5125
+662,Cincinnati,Ohio,2005.0,39.1015,-84.5125
+663,Cincinnati,Ohio,2004.0,39.1015,-84.5125
+664,Cincinnati,Ohio,1999.0,39.1015,-84.5125
+665,Cincinnati,Ohio,1991.0,39.1015,-84.5125
+666,Cincinnati,Ohio,1988.0,39.1015,-84.5125
+667,Cincinnati,Ohio,1983.0,39.1015,-84.5125
+668,Cincinnati,Ohio,1981.0,39.1015,-84.5125
+669,Cincinnati,Ohio,1974.0,39.1015,-84.5125
+670,Cincinnati,Ohio,1972.0,39.1015,-84.5125
+671,Chillicothe,Ohio,,39.3331,-82.9824
+672,Canton,Ohio,2009.0,40.799,-81.3784
+673,Canton,Ohio,2004.0,40.799,-81.3784
+674,Canton,Ohio,1997.0,40.799,-81.3784
+675,Canton,Ohio,1996.0,40.799,-81.3784
+676,Canton,Ohio,1989.0,40.799,-81.3784
+677,Canton,Ohio,1980.0,40.799,-81.3784
+678,Canton,Ohio,1973.0,40.799,-81.3784
+679,Canton,Ohio,1969.0,40.799,-81.3784
+680,Canal Winchester,Ohio,2010.0,39.8428,-82.8056
+681,Bellefontaine,Ohio,1974.0,40.3612,-83.7597
+682,Bellefontaine,Ohio,1950.0,40.3612,-83.7597
+683,Barberton,Ohio,1985.0,41.0128,-81.6051
+684,Akron,Ohio,2010.0,41.0831,-81.5185
+685,Akron,Ohio,2004.0,41.0831,-81.5185
+686,Akron,Ohio,2003.0,41.0831,-81.5185
+687,Akron,Ohio,1989.0,41.0831,-81.5185
+688,Akron,Ohio,1962.0,41.0831,-81.5185
+689,Akron,Ohio,,41.0831,-81.5185
+690,Minot,North Dakota,1978.0,48.2325,-101.2963
+691,Grand Forks,North Dakota,2015.0,47.9078,-97.0592
+692,Devils Lake,North Dakota,1976.0,48.1128,-98.8651
+693,Bowbells,North Dakota,1991.0,48.8031,-102.24600000000001
+694,Bottineau,North Dakota,1950.0,48.8272,-100.4457
+695,Winston-Salem,North Carolina,2009.0,36.0999,-80.2442
+696,Winston-Salem,North Carolina,2006.0,36.0999,-80.2442
+697,Winston-Salem,North Carolina,2004.0,36.0999,-80.2442
+698,Winston-Salem,North Carolina,1998.0,36.0999,-80.2442
+699,Winston-Salem,North Carolina,1994.0,36.0999,-80.2442
+700,Winston-Salem,North Carolina,1993.0,36.0999,-80.2442
+701,Winston-Salem,North Carolina,1992.0,36.0999,-80.2442
+702,Winston-Salem,North Carolina,1977.0,36.0999,-80.2442
+703,Winston-Salem,North Carolina,1970.0,36.0999,-80.2442
+704,Winston-Salem,North Carolina,1965.0,36.0999,-80.2442
+705,Wilson Mills,North Carolina,1978.0,35.5840472,-78.3558342
+706,Wilmington,North Carolina,1987.0,34.2257,-77.9447
+707,Wilmington,North Carolina,1981.0,34.2257,-77.9447
+708,Wilmington,North Carolina,1980.0,34.2257,-77.9447
+709,Wilmington,North Carolina,,34.2257,-77.9447
+710,Whiteville,North Carolina,1991.0,34.3388,-78.7031
+711,Wagram,North Carolina,2003.0,34.8879,-79.3662
+712,Tryon,North Carolina,1973.0,35.2082,-82.2384
+713,Tarboro,North Carolina,2016.0,35.8968,-77.5358
+714,Tarboro,North Carolina,1983.0,35.8968,-77.5358
+715,Shelby,North Carolina,,35.2924,-81.5356
+716,Shallotte,North Carolina,2007.0,33.9732,-78.3858
+717,Rocky Mount,North Carolina,1993.0,35.9424,-77.7957
+718,Rocky Mount,North Carolina,1983.0,35.9424,-77.7957
+719,Rocky Mount,North Carolina,1982.0,35.9424,-77.7957
+720,Rocky Mount,North Carolina,1979.0,35.9424,-77.7957
+721,Raleigh,North Carolina,2011.0,35.7804,-78.6391
+722,Raleigh,North Carolina,2006.0,35.7804,-78.6391
+723,Raleigh,North Carolina,2003.0,35.7804,-78.6391
+724,Raleigh,North Carolina,1987.0,35.7804,-78.6391
+725,Raleigh,North Carolina,1985.0,35.7804,-78.6391
+726,Raleigh,North Carolina,1972.0,35.7804,-78.6391
+727,Raeford,North Carolina,2010.0,34.981,-79.2242
+728,Raeford,North Carolina,1971.0,34.981,-79.2242
+729,Pleasant Grove,North Carolina,2010.0,36.1920811,-79.3266864
+730,Newton Grove,North Carolina,1994.0,35.2454,-78.3544
+731,New Bern,North Carolina,,35.1085,-77.0441
+732,Murfreesboro,North Carolina,1995.0,36.4424,-77.0986
+733,Lowlands,North Carolina,1947.0,35.2990556,-76.5643719
+734,Lincolnton,North Carolina,1972.0,35.4737,-81.2545
+735,Lexington,North Carolina,1981.0,35.824,-80.2534
+736,Lenoir County,North Carolina,1984.0,35.2326725,-77.6077865
+737,Kinston,North Carolina,2017.0,35.2627,-77.5816
+738,Kinston,North Carolina,1996.0,35.2627,-77.5816
+739,Kinston,North Carolina,1991.0,35.2627,-77.5816
+740,Kinston,North Carolina,1989.0,35.2627,-77.5816
+741,Kinston,North Carolina,1978.0,35.2627,-77.5816
+742,King,North Carolina,1982.0,36.2807,-80.3592
+743,Kelford,North Carolina,2013.0,36.1796,-77.2236
+744,Jonesville,North Carolina,1956.0,36.2393,-80.8445
+745,Hoke,North Carolina,1974.0,35.0432488,-79.24511489999999
+746,Hickory,North Carolina,1987.0,35.7332,-81.3412
+747,Hickory,North Carolina,1966.0,35.7332,-81.3412
+748,Henderson,North Carolina,1988.0,36.3296,-78.3992
+749,Halifax,North Carolina,1990.0,36.3285,-77.5894
+750,Greensboro,North Carolina,2013.0,36.0726,-79.792
+751,Greensboro,North Carolina,2002.0,36.0726,-79.792
+752,Greensboro,North Carolina,1981.0,36.0726,-79.792
+753,Greensboro,North Carolina,1967.0,36.0726,-79.792
+754,Greensboro,North Carolina,,36.0726,-79.792
+755,Goldsboro,North Carolina,1980.0,35.3849,-77.9928
+756,Golden Valley,North Carolina,1947.0,35.5678038,-81.7568253
+757,Gibson,North Carolina,1975.0,34.759,-79.6106
+758,Gastonia,North Carolina,2011.0,35.2621,-81.1873
+759,Gastonia,North Carolina,1995.0,35.2621,-81.1873
+760,Gastonia,North Carolina,1983.0,35.2621,-81.1873
+761,Gastonia,North Carolina,1980.0,35.2621,-81.1873
+762,Gastonia,North Carolina,,35.2621,-81.1873
+763,Franklinton,North Carolina,1973.0,36.1018,-78.4581
+764,Elm City,North Carolina,1995.0,35.8065,-77.8633
+765,East Spencer,North Carolina,1998.0,35.6817,-80.4325
+766,Durham,North Carolina,2007.0,35.994,-78.8986
+767,Durham,North Carolina,1994.0,35.994,-78.8986
+768,Durham,North Carolina,1977.0,35.994,-78.8986
+769,Durham,North Carolina,1968.0,35.994,-78.8986
+770,Durham,North Carolina,,35.994,-78.8986
+771,Crossnore,North Carolina,1975.0,36.0218,-81.9296
+772,Cordova,North Carolina,1964.0,34.9129318,-79.82200259999999
+773,Charlotte,North Carolina,2017.0,35.2271,-80.8431
+774,Charlotte,North Carolina,2014.0,35.2271,-80.8431
+775,Charlotte,North Carolina,2011.0,35.2271,-80.8431
+776,Charlotte,North Carolina,2009.0,35.2271,-80.8431
+777,Charlotte,North Carolina,1998.0,35.2271,-80.8431
+778,Charlotte,North Carolina,1997.0,35.2271,-80.8431
+779,Charlotte,North Carolina,1996.0,35.2271,-80.8431
+780,Charlotte,North Carolina,1990.0,35.2271,-80.8431
+781,Charlotte,North Carolina,1988.0,35.2271,-80.8431
+782,Charlotte,North Carolina,1975.0,35.2271,-80.8431
+783,Charlotte,North Carolina,1972.0,35.2271,-80.8431
+784,Chapel Hill,North Carolina,1983.0,35.9132,-79.0558
+785,Burlington,North Carolina,1979.0,36.0957,-79.4378
+786,Burlington,North Carolina,1966.0,36.0957,-79.4378
+787,Black Mountain,North Carolina,1987.0,35.6179,-82.3212
+788,Aurora,North Carolina,1991.0,35.3054,-76.7887
+789,Asheville,North Carolina,2006.0,35.6009,-82.554
+790,Yonkers,New York,2015.0,40.9312,-73.8987
+791,Yonkers,New York,1980.0,40.9312,-73.8987
+792,White Plains,New York,2006.0,41.034,-73.7629
+793,Westbury,New York,1975.0,40.7557,-73.5876
+794,Waterloo,New York,1985.0,42.9048,-76.8627
+795,Valhalla,New York,1978.0,41.0748,-73.7751
+796,Uniondale,New York,1947.0,40.7004,-73.5929
+797,Syracuse,New York,2011.0,43.0481,-76.1474
+798,Syracuse,New York,2006.0,43.0481,-76.1474
+799,Syracuse,New York,1998.0,43.0481,-76.1474
+800,Syracuse,New York,1982.0,43.0481,-76.1474
+801,Syracuse,New York,1979.0,43.0481,-76.1474
+802,Sunnyside,New York,1993.0,40.7478,-73.9183
+803,Staten Island,New York,2007.0,40.6428,-74.0749
+804,Southhampton,New York,1982.0,40.884267,-72.3895296
+805,Southampton,New York,1975.0,40.8843,-72.3895
+806,Schenectady,New York,1965.0,42.8142,-73.9396
+807,Scarsdale,New York,1985.0,40.9691,-73.7635
+808,Roosevelt,New York,,40.6787,-73.589
+809,Rome,New York,,43.2128,-75.4557
+810,Rockville Centre,New York,1988.0,40.6587,-73.6412
+811,Rockville Centre,New York,1973.0,40.6587,-73.6412
+812,Rockaway,New York,1975.0,40.592658,-73.7977928
+813,Rochester,New York,2001.0,43.1573,-77.6152
+814,Rochester,New York,1997.0,43.1573,-77.6152
+815,Rochester,New York,1990.0,43.1573,-77.6152
+816,Rochester,New York,1989.0,43.1573,-77.6152
+817,Rochester,New York,1988.0,43.1573,-77.6152
+818,Rochester,New York,1987.0,43.1573,-77.6152
+819,Rochester,New York,1983.0,43.1573,-77.6152
+820,Rochester,New York,1962.0,43.1573,-77.6152
+821,Rochester,New York,1956.0,43.1573,-77.6152
+822,Rochester,New York,,43.1573,-77.6152
+823,Queens Village,New York,1991.0,40.7268,-73.7415
+824,Queens,New York,2014.0,40.7282239,-73.7948516
+825,Queens,New York,2013.0,40.7282239,-73.7948516
+826,Queens,New York,2011.0,40.7282239,-73.7948516
+827,Queens,New York,2009.0,40.7282239,-73.7948516
+828,Queens,New York,2006.0,40.7282239,-73.7948516
+829,Queens,New York,2002.0,40.7282239,-73.7948516
+830,Queens,New York,2001.0,40.7282239,-73.7948516
+831,Queens,New York,1995.0,40.7282239,-73.7948516
+832,Queens,New York,1992.0,40.7282239,-73.7948516
+833,Queens,New York,1988.0,40.7282239,-73.7948516
+834,Queens,New York,1953.0,40.7282239,-73.7948516
+835,Queens,New York,,40.7282239,-73.7948516
+836,Peekskill,New York,2007.0,41.2898,-73.9205
+837,Ogdensburg,New York,1985.0,44.6942,-75.4863
+838,Niagara Falls,New York,2010.0,43.1031,-79.0303
+839,Niagara Falls,New York,1950.0,43.1031,-79.0303
+840,New York City,New York,1954.0,40.7648,-73.9808
+841,New York,New York,2015.0,40.7648,-73.9808
+842,New York,New York,2008.0,40.7648,-73.9808
+843,New York,New York,2006.0,40.7648,-73.9808
+844,New York,New York,2004.0,40.7648,-73.9808
+845,New York,New York,2003.0,40.7648,-73.9808
+846,New York,New York,2002.0,40.7648,-73.9808
+847,New York,New York,2000.0,40.7648,-73.9808
+848,New York,New York,1998.0,40.7648,-73.9808
+849,New York,New York,1997.0,40.7648,-73.9808
+850,New York,New York,1994.0,40.7648,-73.9808
+851,New York,New York,1993.0,40.7648,-73.9808
+852,New York,New York,1991.0,40.7648,-73.9808
+853,New York,New York,1990.0,40.7648,-73.9808
+854,New York,New York,1989.0,40.7648,-73.9808
+855,New York,New York,1988.0,40.7648,-73.9808
+856,New York,New York,1987.0,40.7648,-73.9808
+857,New York,New York,1985.0,40.7648,-73.9808
+858,New York,New York,1984.0,40.7648,-73.9808
+859,New York,New York,1982.0,40.7648,-73.9808
+860,New York,New York,1981.0,40.7648,-73.9808
+861,New York,New York,1980.0,40.7648,-73.9808
+862,New York,New York,1978.0,40.7648,-73.9808
+863,New York,New York,1976.0,40.7648,-73.9808
+864,New York,New York,1975.0,40.7648,-73.9808
+865,New York,New York,1974.0,40.7648,-73.9808
+866,New York,New York,1973.0,40.7648,-73.9808
+867,New York,New York,1972.0,40.7648,-73.9808
+868,New York,New York,1971.0,40.7648,-73.9808
+869,New York,New York,1970.0,40.7648,-73.9808
+870,New York,New York,1969.0,40.7648,-73.9808
+871,New York,New York,1967.0,40.7648,-73.9808
+872,New York,New York,1964.0,40.7648,-73.9808
+873,New York,New York,1962.0,40.7648,-73.9808
+874,New York,New York,1959.0,40.7648,-73.9808
+875,New York,New York,1958.0,40.7648,-73.9808
+876,New York,New York,1957.0,40.7648,-73.9808
+877,New York,New York,1956.0,40.7648,-73.9808
+878,New York,New York,1954.0,40.7648,-73.9808
+879,New York,New York,1949.0,40.7648,-73.9808
+880,New York,New York,1948.0,40.7648,-73.9808
+881,New York,New York,,40.7648,-73.9808
+882,New Rochelle,New York,1956.0,40.9115,-73.7826
+883,Mount Vernon,New York,2013.0,40.9126,-73.8371
+884,Mount Vernon,New York,1984.0,40.9126,-73.8371
+885,Mount Vernon,New York,1978.0,40.9126,-73.8371
+886,Mount Vernon,New York,1977.0,40.9126,-73.8371
+887,Mount Vernon,New York,1976.0,40.9126,-73.8371
+888,Mount Vernon,New York,1975.0,40.9126,-73.8371
+889,Mount Vernon,New York,,40.9126,-73.8371
+890,Mount Kisco,New York,1995.0,41.2043,-73.7271
+891,Monroe,New York,2017.0,41.3306,-74.1868
+892,Minoa,New York,1955.0,43.0762,-76.0008
+893,Middletown,New York,2015.0,41.4459,-74.4229
+894,Long Island City,New York,1977.0,40.7455,-73.9485
+895,Long Island City,New York,1963.0,40.7455,-73.9485
+896,Long Island City,New York,1957.0,40.7455,-73.9485
+897,Long Island City,New York,,40.7455,-73.9485
+898,Long Island,New York,1989.0,40.789142,-73.13496099999999
+899,Long Island,New York,1950.0,40.789142,-73.13496099999999
+900,Lockwood,New York,2012.0,42.0912,-76.5499
+901,Liberty,New York,1987.0,41.8012,-74.7465
+902,Jamaica,New York,2010.0,40.6915,-73.8057
+903,Jamaica,New York,2000.0,40.6915,-73.8057
+904,Jamaica,New York,1987.0,40.6915,-73.8057
+905,Jamaica,New York,1983.0,40.6915,-73.8057
+906,Ithaca,New York,1991.0,42.4396,-76.4968
+907,Huntington Station,New York,1993.0,40.8534,-73.4115
+908,Huntington,New York,,40.8682,-73.4257
+909,Hicksville,New York,1977.0,40.7684,-73.5251
+910,Hempstead,New York,1996.0,40.7063,-73.6187
+911,Harlem,New York,2005.0,40.8115504,-73.9464769
+912,Harlem,New York,2002.0,40.8115504,-73.9464769
+913,Glens Falls,New York,2012.0,43.3097,-73.6441
+914,Flushing,New York,2013.0,40.7654,-73.8174
+915,Flushing,New York,1972.0,40.7654,-73.8174
+916,Floral Park,New York,2001.0,40.7237,-73.7049
+917,Far Rockaway,New York,1963.0,40.59,-73.8
+918,Far Rockaway,New York,,40.59,-73.8
+919,Elmira,New York,1976.0,42.0898,-76.8077
+920,Elmhurst,New York,1954.0,40.7366,-73.8784
+921,Dobbs Ferry,New York,2001.0,41.0145,-73.8726
+922,Cortlandt Manor,New York,2000.0,41.31,-73.88
+923,Copaigue,New York,2002.0,40.6814892,-73.3998445
+924,Copaigue,New York,1989.0,40.6814892,-73.3998445
+925,Carmel,New York,2014.0,41.4266,-73.6788
+926,Buffalo,New York,2011.0,42.9333,-78.877
+927,Buffalo,New York,2009.0,42.9333,-78.877
+928,Buffalo,New York,2006.0,42.9333,-78.877
+929,Buffalo,New York,2004.0,42.9333,-78.877
+930,Buffalo,New York,1995.0,42.9333,-78.877
+931,Buffalo,New York,1983.0,42.9333,-78.877
+932,Buffalo,New York,1968.0,42.9333,-78.877
+933,Buffalo,New York,,42.9333,-78.877
+934,Brooklyn,New York,2017.0,40.6922,-73.9902
+935,Brooklyn,New York,2012.0,40.6922,-73.9902
+936,Brooklyn,New York,2011.0,40.6922,-73.9902
+937,Brooklyn,New York,2010.0,40.6922,-73.9902
+938,Brooklyn,New York,2007.0,40.6922,-73.9902
+939,Brooklyn,New York,2006.0,40.6922,-73.9902
+940,Brooklyn,New York,2005.0,40.6922,-73.9902
+941,Brooklyn,New York,2004.0,40.6922,-73.9902
+942,Brooklyn,New York,2002.0,40.6922,-73.9902
+943,Brooklyn,New York,2000.0,40.6922,-73.9902
+944,Brooklyn,New York,1998.0,40.6922,-73.9902
+945,Brooklyn,New York,1997.0,40.6922,-73.9902
+946,Brooklyn,New York,1994.0,40.6922,-73.9902
+947,Brooklyn,New York,1993.0,40.6922,-73.9902
+948,Brooklyn,New York,1991.0,40.6922,-73.9902
+949,Brooklyn,New York,1990.0,40.6922,-73.9902
+950,Brooklyn,New York,1988.0,40.6922,-73.9902
+951,Brooklyn,New York,1987.0,40.6922,-73.9902
+952,Brooklyn,New York,1986.0,40.6922,-73.9902
+953,Brooklyn,New York,1985.0,40.6922,-73.9902
+954,Brooklyn,New York,1982.0,40.6922,-73.9902
+955,Brooklyn,New York,1981.0,40.6922,-73.9902
+956,Brooklyn,New York,1980.0,40.6922,-73.9902
+957,Brooklyn,New York,1978.0,40.6922,-73.9902
+958,Brooklyn,New York,1977.0,40.6922,-73.9902
+959,Brooklyn,New York,1976.0,40.6922,-73.9902
+960,Brooklyn,New York,1975.0,40.6922,-73.9902
+961,Brooklyn,New York,1973.0,40.6922,-73.9902
+962,Brooklyn,New York,1972.0,40.6922,-73.9902
+963,Brooklyn,New York,1970.0,40.6922,-73.9902
+964,Brooklyn,New York,1969.0,40.6922,-73.9902
+965,Brooklyn,New York,1968.0,40.6922,-73.9902
+966,Brooklyn,New York,1967.0,40.6922,-73.9902
+967,Brooklyn,New York,1963.0,40.6922,-73.9902
+968,Brooklyn,New York,1960.0,40.6922,-73.9902
+969,Brooklyn,New York,1959.0,40.6922,-73.9902
+970,Brooklyn,New York,1958.0,40.6922,-73.9902
+971,Brooklyn,New York,1953.0,40.6922,-73.9902
+972,Brooklyn,New York,1950.0,40.6922,-73.9902
+973,Brooklyn,New York,1949.0,40.6922,-73.9902
+974,Brooklyn,New York,1948.0,40.6922,-73.9902
+975,Brooklyn,New York,1947.0,40.6922,-73.9902
+976,Brooklyn,New York,,40.6922,-73.9902
+977,Brookhaven,New York,1986.0,40.7793,-72.9154
+978,Bronx,New York,2016.0,40.8262,-73.9231
+979,Bronx,New York,2007.0,40.8262,-73.9231
+980,Bronx,New York,2005.0,40.8262,-73.9231
+981,Bronx,New York,2002.0,40.8262,-73.9231
+982,Bronx,New York,1999.0,40.8262,-73.9231
+983,Bronx,New York,1997.0,40.8262,-73.9231
+984,Bronx,New York,1996.0,40.8262,-73.9231
+985,Bronx,New York,1995.0,40.8262,-73.9231
+986,Bronx,New York,1993.0,40.8262,-73.9231
+987,Bronx,New York,1992.0,40.8262,-73.9231
+988,Bronx,New York,1991.0,40.8262,-73.9231
+989,Bronx,New York,1990.0,40.8262,-73.9231
+990,Bronx,New York,1987.0,40.8262,-73.9231
+991,Bronx,New York,1986.0,40.8262,-73.9231
+992,Bronx,New York,1981.0,40.8262,-73.9231
+993,Bronx,New York,1978.0,40.8262,-73.9231
+994,Bronx,New York,1976.0,40.8262,-73.9231
+995,Bronx,New York,1972.0,40.8262,-73.9231
+996,Bronx,New York,1956.0,40.8262,-73.9231
+997,Bronx,New York,,40.8262,-73.9231
+998,Bellport,New York,1972.0,40.757,-72.9393
+999,Bayville,New York,1985.0,40.9107,-73.5621
+1000,Bayshore,New York,1982.0,40.7251,-73.2454
+1001,Astoria,New York,1965.0,40.75,-73.94
+1002,Astoria,New York,1958.0,40.75,-73.94
+1003,Angola,New York,1993.0,42.6384,-79.0278
+1004,Albany,New York,2005.0,42.6512,-73.755
+1005,Silver City,New Mexico,1976.0,32.7725,-108.2794
+1006,Los Alamos,New Mexico,2015.0,35.8585,-106.3172
+1007,Hobbs,New Mexico,2011.0,32.7026,-103.13600000000001
+1008,Hobbs,New Mexico,1963.0,32.7026,-103.13600000000001
+1009,Clovis,New Mexico,1993.0,34.4055,-103.2051
+1010,Alamogordo,New Mexico,2010.0,32.8998,-105.9603
+1011,Woodbury,New Jersey,1961.0,39.8382,-75.1527
+1012,Willingboro,New Jersey,2002.0,40.0279,-74.8691
+1013,Union City,New Jersey,1967.0,40.7795,-74.0238
+1014,Union City,New Jersey,1955.0,40.7795,-74.0238
+1015,Union City,New Jersey,1950.0,40.7795,-74.0238
+1016,Union City,New Jersey,,40.7795,-74.0238
+1017,Trenton,New Jersey,2017.0,40.2171,-74.7429
+1018,Trenton,New Jersey,1997.0,40.2171,-74.7429
+1019,Trenton,New Jersey,1990.0,40.2171,-74.7429
+1020,Trenton,New Jersey,1984.0,40.2171,-74.7429
+1021,Trenton,New Jersey,1980.0,40.2171,-74.7429
+1022,Trenton,New Jersey,1955.0,40.2171,-74.7429
+1023,Trenton,New Jersey,,40.2171,-74.7429
+1024,Toms River,New Jersey,1993.0,39.9537,-74.19800000000001
+1025,Teaneck,New Jersey,2008.0,40.8976,-74.016
+1026,Teaneck,New Jersey,2004.0,40.8976,-74.016
+1027,Teaneck,New Jersey,1985.0,40.8976,-74.016
+1028,Teaneck,New Jersey,1947.0,40.8976,-74.016
+1029,Somerville,New Jersey,1992.0,40.5743,-74.6099
+1030,Riverside,New Jersey,1968.0,40.0323,-74.9574
+1031,River Edge,New Jersey,1971.0,40.9287,-74.0399
+1032,Plainsboro,New Jersey,2006.0,40.3334,-74.6004
+1033,Plainfield,New Jersey,2010.0,40.6337,-74.4074
+1034,Pitman,New Jersey,2002.0,39.7329,-75.1316
+1035,Perth Amboy,New Jersey,1981.0,40.5068,-74.2654
+1036,Perth Amboy,New Jersey,1973.0,40.5068,-74.2654
+1037,Paterson,New Jersey,2008.0,40.9168,-74.1718
+1038,Paterson,New Jersey,1998.0,40.9168,-74.1718
+1039,Paterson,New Jersey,1997.0,40.9168,-74.1718
+1040,Orange,New Jersey,2013.0,40.77,-74.23
+1041,Orange,New Jersey,1999.0,40.77,-74.23
+1042,Orange,New Jersey,1993.0,40.77,-74.23
+1043,Newark,New Jersey,2012.0,40.7357,-74.1724
+1044,Newark,New Jersey,2007.0,40.7357,-74.1724
+1045,Newark,New Jersey,2000.0,40.7357,-74.1724
+1046,Newark,New Jersey,1996.0,40.7357,-74.1724
+1047,Newark,New Jersey,1991.0,40.7357,-74.1724
+1048,Newark,New Jersey,1988.0,40.7357,-74.1724
+1049,Newark,New Jersey,1987.0,40.7357,-74.1724
+1050,Newark,New Jersey,1978.0,40.7357,-74.1724
+1051,Newark,New Jersey,1972.0,40.7357,-74.1724
+1052,Newark,New Jersey,1962.0,40.7357,-74.1724
+1053,Newark,New Jersey,1961.0,40.7357,-74.1724
+1054,Newark,New Jersey,1956.0,40.7357,-74.1724
+1055,Newark,New Jersey,1947.0,40.7357,-74.1724
+1056,Newark,New Jersey,,40.7357,-74.1724
+1057,New Jersey,New Jersey,1947.0,40.0583238,-74.4056612
+1058,New Brunswick,New Jersey,1977.0,40.4862,-74.4518
+1059,New Brunswick,New Jersey,1975.0,40.4862,-74.4518
+1060,New Brunswick,New Jersey,1949.0,40.4862,-74.4518
+1061,Neptune,New Jersey,1988.0,40.224000000000004,-74.0478
+1062,Neptune,New Jersey,1968.0,40.224000000000004,-74.0478
+1063,Morristown,New Jersey,2002.0,40.797,-74.48100000000001
+1064,Morristown,New Jersey,1990.0,40.797,-74.48100000000001
+1065,Long Branch,New Jersey,2012.0,40.3043,-73.9924
+1066,Livingston,New Jersey,1998.0,40.7959,-74.3149
+1067,Livingston,New Jersey,,40.7959,-74.3149
+1068,Linwood,New Jersey,2012.0,39.3398,-74.5751
+1069,Kearney,New Jersey,1949.0,40.7684342,-74.1454214
+1070,Jersey City,New Jersey,1999.0,40.7282,-74.0776
+1071,Jersey City,New Jersey,1998.0,40.7282,-74.0776
+1072,Jersey City,New Jersey,1994.0,40.7282,-74.0776
+1073,Jersey City,New Jersey,1989.0,40.7282,-74.0776
+1074,Jersey City,New Jersey,1987.0,40.7282,-74.0776
+1075,Jersey City,New Jersey,1981.0,40.7282,-74.0776
+1076,Jersey City,New Jersey,1980.0,40.7282,-74.0776
+1077,Jersey City,New Jersey,1965.0,40.7282,-74.0776
+1078,Jersey City,New Jersey,1962.0,40.7282,-74.0776
+1079,Jersey City,New Jersey,1951.0,40.7282,-74.0776
+1080,Irvington,New Jersey,2016.0,40.7323,-74.2349
+1081,Hoboken,New Jersey,2013.0,40.7433,-74.0324
+1082,Hoboken,New Jersey,1951.0,40.7433,-74.0324
+1083,Glen Ridge,New Jersey,1989.0,40.8054,-74.2038
+1084,Glen Ridge,New Jersey,1982.0,40.8054,-74.2038
+1085,Freehold,New Jersey,1989.0,40.25,-74.3
+1086,Fanwood,New Jersey,2011.0,40.6409,-74.3835
+1087,Englewood,New Jersey,1976.0,40.8929,-73.9726
+1088,Elizabeth,New Jersey,2005.0,40.664,-74.2107
+1089,Elizabeth,New Jersey,1992.0,40.664,-74.2107
+1090,Elizabeth,New Jersey,1982.0,40.664,-74.2107
+1091,Elizabeth,New Jersey,,40.664,-74.2107
+1092,Edison,New Jersey,2016.0,40.5187,-74.4121
+1093,East Orange,New Jersey,1996.0,40.7673,-74.2049
+1094,East Orange,New Jersey,1980.0,40.7673,-74.2049
+1095,Cherry Hill,New Jersey,1999.0,39.9348,-75.0307
+1096,Camden,New Jersey,1988.0,39.9448,-75.1199
+1097,Camden,New Jersey,1987.0,39.9448,-75.1199
+1098,Camden,New Jersey,1974.0,39.9448,-75.1199
+1099,Belle Mead,New Jersey,2017.0,40.4675835,-74.6628114
+1100,Atlantic City,New Jersey,1996.0,39.3643,-74.4229
+1101,Atlantic City,New Jersey,1973.0,39.3643,-74.4229
+1102,Concord,New Hampshire,2005.0,43.2071,-71.53699999999999
+1103,Las Vegas,Nevada,2017.0,36.1663,-115.1492
+1104,Las Vegas,Nevada,2012.0,36.1663,-115.1492
+1105,Las Vegas,Nevada,2004.0,36.1663,-115.1492
+1106,Las Vegas,Nevada,1999.0,36.1663,-115.1492
+1107,Las Vegas,Nevada,1992.0,36.1663,-115.1492
+1108,Omaha,Nebraska,1998.0,41.2587,-95.9379
+1109,Omaha,Nebraska,1994.0,41.2587,-95.9379
+1110,Omaha,Nebraska,1988.0,41.2587,-95.9379
+1111,Omaha,Nebraska,1961.0,41.2587,-95.9379
+1112,Lincoln,Nebraska,1996.0,40.8001,-96.6674
+1113,Lincoln,Nebraska,1992.0,40.8001,-96.6674
+1114,Lincoln,Nebraska,1986.0,40.8001,-96.6674
+1115,Grand Island,Nebraska,1990.0,40.9243,-98.3387
+1116,Grand Island,Nebraska,1976.0,40.9243,-98.3387
+1117,Bushnell,Nebraska,1947.0,41.1941,-103.9197
+1118,Missoula,Montana,1987.0,46.8701,-113.9953
+1119,Miles City,Montana,1950.0,46.4085,-105.84100000000001
+1120,Miles City,Montana,,46.4085,-105.84100000000001
+1121,Libby,Montana,1994.0,48.3883,-115.556
+1122,Great Falls,Montana,2008.0,47.5049,-111.2919
+1123,Glendive,Montana,2007.0,47.1053,-104.7125
+1124,Deer Lodge,Montana,,46.3958,-112.73
+1125,Billings,Montana,1980.0,45.7875,-108.4961
+1126,Billings,Montana,1976.0,45.7875,-108.4961
+1127,Webster Groves,Missouri,1958.0,38.5925,-90.3573
+1128,St. Louis,Missouri,2017.0,38.63,-90.19
+1129,St. Louis,Missouri,2014.0,38.63,-90.19
+1130,St. Louis,Missouri,2013.0,38.63,-90.19
+1131,St. Louis,Missouri,2008.0,38.63,-90.19
+1132,St. Louis,Missouri,2002.0,38.63,-90.19
+1133,St. Louis,Missouri,1999.0,38.63,-90.19
+1134,St. Louis,Missouri,1996.0,38.63,-90.19
+1135,St. Louis,Missouri,1991.0,38.63,-90.19
+1136,St. Louis,Missouri,1984.0,38.63,-90.19
+1137,St. Louis,Missouri,1983.0,38.63,-90.19
+1138,St. Louis,Missouri,1977.0,38.63,-90.19
+1139,St. Louis,Missouri,1970.0,38.63,-90.19
+1140,St. Louis,Missouri,1969.0,38.63,-90.19
+1141,St. Louis,Missouri,1968.0,38.63,-90.19
+1142,St. Louis,Missouri,1962.0,38.63,-90.19
+1143,St. Louis,Missouri,1960.0,38.63,-90.19
+1144,St. Louis,Missouri,,38.63,-90.19
+1145,St. Charles,Missouri,2012.0,38.79,-90.5
+1146,Springfield,Missouri,2009.0,37.2153,-93.2983
+1147,Sedalia,Missouri,1995.0,38.7045,-93.2283
+1148,Sedalia,Missouri,1979.0,38.7045,-93.2283
+1149,Poplar Bluff,Missouri,2013.0,36.757,-90.3929
+1150,Poplar Bluff,Missouri,2010.0,36.757,-90.3929
+1151,Mexico,Missouri,1999.0,39.1698,-91.8829
+1152,Leonard,Missouri,1957.0,39.8951,-92.1816
+1153,Kirksville,Missouri,1978.0,40.1948,-92.5832
+1154,Kansas City,Missouri,2009.0,39.0845,-94.56299999999999
+1155,Kansas City,Missouri,2003.0,39.0845,-94.56299999999999
+1156,Kansas City,Missouri,2000.0,39.0845,-94.56299999999999
+1157,Kansas City,Missouri,1993.0,39.0845,-94.56299999999999
+1158,Kansas City,Missouri,1986.0,39.0845,-94.56299999999999
+1159,Kansas City,Missouri,1975.0,39.0845,-94.56299999999999
+1160,Ironton,Missouri,1996.0,37.5973,-90.6273
+1161,Independence,Missouri,1957.0,39.0911,-94.4155
+1162,Grandview,Missouri,2012.0,38.8858,-94.53299999999999
+1163,East St. Louis,Missouri,2004.0,38.624514,-90.1506465
+1164,Crystal City,Missouri,,38.2212,-90.37899999999999
+1165,Columbia,Missouri,2012.0,38.9519,-92.3337
+1166,Charlestown,Missouri,1949.0,36.9208854,-89.35063099999999
+1167,Yazoo City,Mississippi,1975.0,32.8551,-90.4056
+1168,Yazoo City,Mississippi,1962.0,32.8551,-90.4056
+1169,Vicksburg,Mississippi,1986.0,32.3528,-90.8777
+1170,Utica,Mississippi,1994.0,32.1096,-90.6234
+1171,Utica,Mississippi,1978.0,32.1096,-90.6234
+1172,Utica,Mississippi,,32.1096,-90.6234
+1173,Thornton,Mississippi,1969.0,33.07929410000001,-90.32258809999999
+1174,Summit,Mississippi,1968.0,31.2838,-90.4684
+1175,Starkville,Mississippi,2004.0,33.4504,-88.8184
+1176,Silver City,Mississippi,,33.0965,-90.4968
+1177,Rosedale,Mississippi,1972.0,33.8534,-91.0279
+1178,Rolling Fork,Mississippi,1981.0,32.9065,-90.8782
+1179,Rolling Fork,Mississippi,,32.9065,-90.8782
+1180,Rolling Ford,Mississippi,1974.0,32.9065168,-90.87815669999999
+1181,Quitman,Mississippi,1996.0,32.0401,-88.7281
+1182,Picayune,Mississippi,2000.0,30.5255,-89.6795
+1183,Pearl,Mississippi,1998.0,32.2746,-90.132
+1184,Pascagoula,Mississippi,1996.0,30.3647,-88.5586
+1185,Pascagoula,Mississippi,1994.0,30.3647,-88.5586
+1186,Pascagoula,Mississippi,1993.0,30.3647,-88.5586
+1187,New Albany,Mississippi,1981.0,34.4943,-89.0078
+1188,New Albany,Mississippi,1973.0,34.4943,-89.0078
+1189,Natchez,Mississippi,1967.0,31.5604,-91.4032
+1190,Monticello,Mississippi,2005.0,31.5537,-90.1073
+1191,Meridian,Mississippi,2015.0,32.3643,-88.7037
+1192,Meridian,Mississippi,1990.0,32.3643,-88.7037
+1193,Meridian,Mississippi,1988.0,32.3643,-88.7037
+1194,Meridian,Mississippi,1965.0,32.3643,-88.7037
+1195,McComb,Mississippi,2005.0,31.2438,-90.4532
+1196,McComb,Mississippi,1974.0,31.2438,-90.4532
+1197,Madison County,Mississippi,1981.0,32.6729459,-90.0373201
+1198,Macon,Mississippi,1977.0,33.1054,-88.5609
+1199,Macon,Mississippi,1976.0,33.1054,-88.5609
+1200,Laurel,Mississippi,1990.0,31.6941,-89.1306
+1201,Jackson,Mississippi,2009.0,32.299,-90.1848
+1202,Jackson,Mississippi,2006.0,32.299,-90.1848
+1203,Jackson,Mississippi,2005.0,32.299,-90.1848
+1204,Jackson,Mississippi,2004.0,32.299,-90.1848
+1205,Jackson,Mississippi,2002.0,32.299,-90.1848
+1206,Jackson,Mississippi,1997.0,32.299,-90.1848
+1207,Jackson,Mississippi,1993.0,32.299,-90.1848
+1208,Jackson,Mississippi,1985.0,32.299,-90.1848
+1209,Jackson,Mississippi,1983.0,32.299,-90.1848
+1210,Jackson,Mississippi,1980.0,32.299,-90.1848
+1211,Jackson,Mississippi,1976.0,32.299,-90.1848
+1212,Jackson,Mississippi,1975.0,32.299,-90.1848
+1213,Jackson,Mississippi,1971.0,32.299,-90.1848
+1214,Jackson,Mississippi,,32.299,-90.1848
+1215,Indianaola,Mississippi,1971.0,33.4509513,-90.6550917
+1216,Houston,Mississippi,1986.0,33.8984,-88.9992
+1217,Hattiesburg,Mississippi,1989.0,31.3271,-89.2903
+1218,Hattiesburg,Mississippi,1979.0,31.3271,-89.2903
+1219,Gulfport,Mississippi,1983.0,30.3674,-89.0928
+1220,Greenwood,Mississippi,1994.0,33.5162,-90.1795
+1221,Greenwood,Mississippi,1991.0,33.5162,-90.1795
+1222,Greenwood,Mississippi,1974.0,33.5162,-90.1795
+1223,Greenwood,Mississippi,,33.5162,-90.1795
+1224,Greenville,Mississippi,1988.0,33.4001,-91.0551
+1225,Ethel,Mississippi,1959.0,33.1204,-89.4659
+1226,Crawford,Mississippi,1993.0,33.3015,-88.6148
+1227,Columbus,Mississippi,1986.0,33.4957,-88.4273
+1228,Columbus,Mississippi,,33.4957,-88.4273
+1229,Collins,Mississippi,1989.0,31.6454,-89.5553
+1230,Cleveland,Mississippi,2015.0,33.744,-90.7248
+1231,Clarksdale,Mississippi,2006.0,34.2001,-90.5709
+1232,Carthage,Mississippi,1971.0,32.7326,-89.5362
+1233,Carthage,Mississippi,,32.7326,-89.5362
+1234,Carrolton,Mississippi,1972.0,33.5081773,-89.9203608
+1235,Canton,Mississippi,1981.0,32.6126,-90.0368
+1236,Canton,Mississippi,1973.0,32.6126,-90.0368
+1237,Biloxi,Mississippi,2014.0,30.396,-88.8854
+1238,Biloxi,Mississippi,2004.0,30.396,-88.8854
+1239,Bethlehem,Mississippi,,34.5784341,-89.3275754
+1240,Aberdeen,Mississippi,1996.0,33.8251,-88.5437
+1241,Winona,Minnesota,1950.0,44.05,-91.6393
+1242,Virginia,Minnesota,1947.0,47.5233,-92.5366
+1243,Thief River Falls,Minnesota,1964.0,48.1172,-96.1771
+1244,Stillwater,Minnesota,1983.0,45.0564,-92.8135
+1245,St. Paul,Minnesota,1982.0,44.9504,-93.1015
+1246,St. Paul,Minnesota,1950.0,44.9504,-93.1015
+1247,St. Louis Park,Minnesota,2014.0,44.9486,-93.365
+1248,St. Cloud,Minnesota,2014.0,45.5616,-94.1642
+1249,Slayton,Minnesota,1999.0,43.9877,-95.7558
+1250,Robbinsdale,Minnesota,1992.0,45.0317,-93.3353
+1251,New Ulm,Minnesota,1988.0,44.3125,-94.4605
+1252,Monticello,Minnesota,2001.0,45.3055,-93.7941
+1253,Minneapolis,Minnesota,2016.0,44.9773,-93.2655
+1254,Minneapolis,Minnesota,2006.0,44.9773,-93.2655
+1255,Minneapolis,Minnesota,2005.0,44.9773,-93.2655
+1256,Minneapolis,Minnesota,2004.0,44.9773,-93.2655
+1257,Minneapolis,Minnesota,2001.0,44.9773,-93.2655
+1258,Minneapolis,Minnesota,2000.0,44.9773,-93.2655
+1259,Minneapolis,Minnesota,1994.0,44.9773,-93.2655
+1260,Minneapolis,Minnesota,1991.0,44.9773,-93.2655
+1261,Minneapolis,Minnesota,1987.0,44.9773,-93.2655
+1262,Minneapolis,Minnesota,1985.0,44.9773,-93.2655
+1263,Minneapolis,Minnesota,1982.0,44.9773,-93.2655
+1264,Minneapolis,Minnesota,1968.0,44.9773,-93.2655
+1265,Minneapolis,Minnesota,1947.0,44.9773,-93.2655
+1266,Minneapolis,Minnesota,,44.9773,-93.2655
+1267,Melrose,Minnesota,1976.0,45.6747,-94.8075
+1268,McIntosh,Minnesota,1950.0,47.6369,-95.8864
+1269,Long Lake,Minnesota,2012.0,44.9866,-93.5716
+1270,Lake City,Minnesota,1984.0,44.4494,-92.2668
+1271,Hill City,Minnesota,1947.0,46.9933,-93.5986
+1272,Hibbing,Minnesota,1956.0,47.4272,-92.9377
+1273,Hibbing,Minnesota,,47.4272,-92.9377
+1274,Gonvick,Minnesota,1949.0,47.7374567,-95.5136248
+1275,Gonvick,Minnesota,,47.7375,-95.5136
+1276,Fulda,Minnesota,1980.0,43.8705,-95.6003
+1277,Edina,Minnesota,1992.0,44.8897,-93.3501
+1278,Duluth,Minnesota,1952.0,46.7729,-92.1251
+1279,Dawson,Minnesota,1998.0,44.9327,-96.0545
+1280,Cottage Grove,Minnesota,1999.0,44.8277,-92.9438
+1281,Burnsville,Minnesota,2016.0,44.7677,-93.2777
+1282,Burnsville,Minnesota,2011.0,44.7677,-93.2777
+1283,Bloomington,Minnesota,1992.0,44.8322,-93.3205
+1284,Ypsilanti,Michigan,1986.0,42.2411,-83.613
+1285,Wyoming,Michigan,2004.0,42.9133,-85.7057
+1286,Wayne,Michigan,1989.0,42.2814,-83.3863
+1287,Warren,Michigan,1983.0,42.5125,-83.054
+1288,Traverse City,Michigan,1989.0,44.7606,-85.6165
+1289,Traverse City,Michigan,1974.0,44.7606,-85.6165
+1290,Sterling Heights,Michigan,2015.0,42.5803,-83.0302
+1291,St. Joseph,Michigan,1985.0,42.1096,-86.48
+1292,Southfield,Michigan,2015.0,42.4734,-83.2219
+1293,Southfield,Michigan,2001.0,42.4734,-83.2219
+1294,Shelby,Michigan,1977.0,43.6086,-86.36399999999999
+1295,Saginaw,Michigan,2013.0,43.42,-83.949
+1296,Saginaw,Michigan,2002.0,43.42,-83.949
+1297,Saginaw,Michigan,2001.0,43.42,-83.949
+1298,Saginaw,Michigan,1997.0,43.42,-83.949
+1299,Saginaw,Michigan,1992.0,43.42,-83.949
+1300,Saginaw,Michigan,1980.0,43.42,-83.949
+1301,Saginaw,Michigan,,43.42,-83.949
+1302,Royal Oak,Michigan,1980.0,42.4895,-83.1446
+1303,Romulus,Michigan,1991.0,42.2223,-83.3966
+1304,Romulus,Michigan,1979.0,42.2223,-83.3966
+1305,River Rouge,Michigan,1968.0,42.2734,-83.1344
+1306,Pontiac,Michigan,1983.0,42.6389,-83.291
+1307,Pontiac,Michigan,1958.0,42.6389,-83.291
+1308,Paw Paw,Michigan,2015.0,42.2178,-85.8911
+1309,Muskegon,Michigan,2017.0,43.2342,-86.2484
+1310,Muskegon,Michigan,,43.2342,-86.2484
+1311,Lansing,Michigan,2017.0,42.7338,-84.5554
+1312,Lansing,Michigan,2004.0,42.7338,-84.5554
+1313,Lansing,Michigan,1989.0,42.7338,-84.5554
+1314,Lansing,Michigan,1986.0,42.7338,-84.5554
+1315,Kalamazoo,Michigan,1998.0,42.2917,-85.5872
+1316,Kalamazoo,Michigan,1982.0,42.2917,-85.5872
+1317,Kalamazoo,Michigan,1950.0,42.2917,-85.5872
+1318,Jackson,Michigan,1997.0,42.2465,-84.4017
+1319,Inkster,Michigan,2003.0,42.2942,-83.3099
+1320,Highland Park,Michigan,1992.0,42.4057,-83.0969
+1321,Highland Park,Michigan,1985.0,42.4057,-83.0969
+1322,Highland Park,Michigan,,42.4057,-83.0969
+1323,Hamtramck,Michigan,1971.0,42.3928,-83.0496
+1324,Grand Rapids,Michigan,2016.0,42.9632,-85.6679
+1325,Grand Rapids,Michigan,2005.0,42.9632,-85.6679
+1326,Grand Rapids,Michigan,2004.0,42.9632,-85.6679
+1327,Grand Rapids,Michigan,1997.0,42.9632,-85.6679
+1328,Grand Rapids,Michigan,1991.0,42.9632,-85.6679
+1329,Flint,Michigan,2015.0,43.0172,-83.7236
+1330,Flint,Michigan,2009.0,43.0172,-83.7236
+1331,Flint,Michigan,2007.0,43.0172,-83.7236
+1332,Flint,Michigan,2002.0,43.0172,-83.7236
+1333,Flint,Michigan,2001.0,43.0172,-83.7236
+1334,Flint,Michigan,2000.0,43.0172,-83.7236
+1335,Flint,Michigan,1993.0,43.0172,-83.7236
+1336,Flint,Michigan,1992.0,43.0172,-83.7236
+1337,Flint,Michigan,1990.0,43.0172,-83.7236
+1338,Flint,Michigan,1989.0,43.0172,-83.7236
+1339,Flint,Michigan,1977.0,43.0172,-83.7236
+1340,Detroit,Michigan,2017.0,42.3487,-83.0567
+1341,Detroit,Michigan,2016.0,42.3487,-83.0567
+1342,Detroit,Michigan,2011.0,42.3487,-83.0567
+1343,Detroit,Michigan,2009.0,42.3487,-83.0567
+1344,Detroit,Michigan,2007.0,42.3487,-83.0567
+1345,Detroit,Michigan,2004.0,42.3487,-83.0567
+1346,Detroit,Michigan,2001.0,42.3487,-83.0567
+1347,Detroit,Michigan,2000.0,42.3487,-83.0567
+1348,Detroit,Michigan,1999.0,42.3487,-83.0567
+1349,Detroit,Michigan,1998.0,42.3487,-83.0567
+1350,Detroit,Michigan,1996.0,42.3487,-83.0567
+1351,Detroit,Michigan,1995.0,42.3487,-83.0567
+1352,Detroit,Michigan,1994.0,42.3487,-83.0567
+1353,Detroit,Michigan,1992.0,42.3487,-83.0567
+1354,Detroit,Michigan,1991.0,42.3487,-83.0567
+1355,Detroit,Michigan,1990.0,42.3487,-83.0567
+1356,Detroit,Michigan,1989.0,42.3487,-83.0567
+1357,Detroit,Michigan,1985.0,42.3487,-83.0567
+1358,Detroit,Michigan,1981.0,42.3487,-83.0567
+1359,Detroit,Michigan,1979.0,42.3487,-83.0567
+1360,Detroit,Michigan,1978.0,42.3487,-83.0567
+1361,Detroit,Michigan,1977.0,42.3487,-83.0567
+1362,Detroit,Michigan,1976.0,42.3487,-83.0567
+1363,Detroit,Michigan,1975.0,42.3487,-83.0567
+1364,Detroit,Michigan,1972.0,42.3487,-83.0567
+1365,Detroit,Michigan,1971.0,42.3487,-83.0567
+1366,Detroit,Michigan,1970.0,42.3487,-83.0567
+1367,Detroit,Michigan,1969.0,42.3487,-83.0567
+1368,Detroit,Michigan,1967.0,42.3487,-83.0567
+1369,Detroit,Michigan,1966.0,42.3487,-83.0567
+1370,Detroit,Michigan,1957.0,42.3487,-83.0567
+1371,Detroit,Michigan,,42.3487,-83.0567
+1372,Cassopolis,Michigan,1982.0,41.9117,-86.01
+1373,Birmingham,Michigan,2002.0,42.5467,-83.2113
+1374,Birmingham,Michigan,1989.0,42.5467,-83.2113
+1375,Benton Harbor,Michigan,2008.0,42.1167,-86.4542
+1376,Benton Harbor,Michigan,2006.0,42.1167,-86.4542
+1377,Benton Harbor,Michigan,1995.0,42.1167,-86.4542
+1378,Benton Harbor,Michigan,1993.0,42.1167,-86.4542
+1379,Benton Harbor,Michigan,,42.1167,-86.4542
+1380,Battle Creek,Michigan,2003.0,42.3193,-85.1824
+1381,Ann Arbor,Michigan,1979.0,42.2682,-83.7312
+1382,Ann Arbor,Michigan,1978.0,42.2682,-83.7312
+1383,Worcester,Massachusetts,2002.0,42.2626,-71.8023
+1384,Worcester,Massachusetts,1991.0,42.2626,-71.8023
+1385,Worcester,Massachusetts,1986.0,42.2626,-71.8023
+1386,Worcester,Massachusetts,1963.0,42.2626,-71.8023
+1387,Winthrop,Massachusetts,1971.0,42.3751,-70.9828
+1388,Springfield,Massachusetts,1996.0,42.1015,-72.5898
+1389,Somerville,Massachusetts,1950.0,42.3876,-71.0995
+1390,Salem,Massachusetts,1993.0,42.5195,-70.8967
+1391,Roxbury,Massachusetts,2017.0,42.3248,-71.095
+1392,Roxbury,Massachusetts,2015.0,42.3248,-71.095
+1393,Roslindale,Massachusetts,2008.0,42.2912,-71.1245
+1394,Norwood,Massachusetts,2017.0,42.1945,-71.1995
+1395,Malden,Massachusetts,2015.0,42.4251,-71.0662
+1396,Lynn,Massachusetts,1957.0,42.4668,-70.9495
+1397,Lawrence,Massachusetts,2017.0,42.707,-71.1631
+1398,Haverhill,Massachusetts,2015.0,42.7778,-71.0768
+1399,Hamilton,Massachusetts,2014.0,42.6362,-70.8431
+1400,Framingham,Massachusetts,1967.0,42.2793,-71.4162
+1401,Fall River,Massachusetts,2000.0,41.7011,-71.1546
+1402,Cambridge,Massachusetts,1969.0,42.3751,-71.1056
+1403,Brookline,Massachusetts,2011.0,42.3318,-71.1212
+1404,Brookline,Massachusetts,1978.0,42.3318,-71.1212
+1405,Boston,Massachusetts,2008.0,42.3605,-71.0596
+1406,Boston,Massachusetts,2007.0,42.3605,-71.0596
+1407,Boston,Massachusetts,2000.0,42.3605,-71.0596
+1408,Boston,Massachusetts,1996.0,42.3605,-71.0596
+1409,Boston,Massachusetts,1995.0,42.3605,-71.0596
+1410,Boston,Massachusetts,1990.0,42.3605,-71.0596
+1411,Boston,Massachusetts,1981.0,42.3605,-71.0596
+1412,Boston,Massachusetts,1977.0,42.3605,-71.0596
+1413,Boston,Massachusetts,1976.0,42.3605,-71.0596
+1414,Boston,Massachusetts,1973.0,42.3605,-71.0596
+1415,Boston,Massachusetts,1970.0,42.3605,-71.0596
+1416,Boston,Massachusetts,,42.3605,-71.0596
+1417,Bernardston,Massachusetts,2003.0,42.6709,-72.5495
+1418,Arlington,Massachusetts,2016.0,42.4154,-71.1564
+1419,Silver Spring,Maryland,2014.0,38.9959,-77.0289
+1420,Silver Spring,Maryland,2003.0,38.9959,-77.0289
+1421,Silver Spring,Maryland,2000.0,38.9959,-77.0289
+1422,Silver Spring,Maryland,1997.0,38.9959,-77.0289
+1423,Rockville,Maryland,2012.0,39.084,-77.1528
+1424,Rockville,Maryland,1982.0,39.084,-77.1528
+1425,Oxon Hill,Maryland,2004.0,38.8036,-76.9897
+1426,Mount Airy,Maryland,2007.0,39.3762,-77.1547
+1427,Lanham,Maryland,2014.0,38.9671,-76.8619
+1428,Landover,Maryland,2017.0,38.9340002,-76.8966397
+1429,Hyattsville,Maryland,1991.0,38.9532,-76.9409
+1430,Havre De Grace,Maryland,1982.0,39.549,-76.0915
+1431,Hagerstown,Maryland,1991.0,39.6419,-77.7203
+1432,Frederick,Maryland,2009.0,39.4144,-77.4106
+1433,Frederick,Maryland,2002.0,39.4144,-77.4106
+1434,Frederick,Maryland,1975.0,39.4144,-77.4106
+1435,Fort Washington,Maryland,2006.0,38.7125,-77.0125
+1436,Fort Washington,Maryland,1995.0,38.7125,-77.0125
+1437,Clinton,Maryland,2010.0,38.7651,-76.8983
+1438,Cheverly,Maryland,1982.0,38.9282,-76.9158
+1439,Chestertown,Maryland,1991.0,39.209,-76.0666
+1440,Capitol Heights,Maryland,2007.0,38.8854,-76.9159
+1441,Berlin,Maryland,1975.0,38.3226,-75.2177
+1442,Baltimore,Maryland,2017.0,39.2909,-76.6108
+1443,Baltimore,Maryland,2014.0,39.2909,-76.6108
+1444,Baltimore,Maryland,2013.0,39.2909,-76.6108
+1445,Baltimore,Maryland,2012.0,39.2909,-76.6108
+1446,Baltimore,Maryland,2011.0,39.2909,-76.6108
+1447,Baltimore,Maryland,2010.0,39.2909,-76.6108
+1448,Baltimore,Maryland,2009.0,39.2909,-76.6108
+1449,Baltimore,Maryland,2005.0,39.2909,-76.6108
+1450,Baltimore,Maryland,2003.0,39.2909,-76.6108
+1451,Baltimore,Maryland,1998.0,39.2909,-76.6108
+1452,Baltimore,Maryland,1997.0,39.2909,-76.6108
+1453,Baltimore,Maryland,1994.0,39.2909,-76.6108
+1454,Baltimore,Maryland,1993.0,39.2909,-76.6108
+1455,Baltimore,Maryland,1992.0,39.2909,-76.6108
+1456,Baltimore,Maryland,1991.0,39.2909,-76.6108
+1457,Baltimore,Maryland,1990.0,39.2909,-76.6108
+1458,Baltimore,Maryland,1989.0,39.2909,-76.6108
+1459,Baltimore,Maryland,1988.0,39.2909,-76.6108
+1460,Baltimore,Maryland,1987.0,39.2909,-76.6108
+1461,Baltimore,Maryland,1985.0,39.2909,-76.6108
+1462,Baltimore,Maryland,1983.0,39.2909,-76.6108
+1463,Baltimore,Maryland,1981.0,39.2909,-76.6108
+1464,Baltimore,Maryland,1980.0,39.2909,-76.6108
+1465,Baltimore,Maryland,1976.0,39.2909,-76.6108
+1466,Baltimore,Maryland,1955.0,39.2909,-76.6108
+1467,Baltimore,Maryland,,39.2909,-76.6108
+1468,Bangor,Maine,1985.0,44.8012,-68.7778
+1469,Zachary,Louisiana,2002.0,30.6485,-91.1565
+1470,Zachary,Louisiana,1950.0,30.6485,-91.1565
+1471,Winnsboro,Louisiana,2013.0,32.1632,-91.7207
+1472,Winnsboro,Louisiana,1958.0,32.1632,-91.7207
+1473,Vidalia,Louisiana,1983.0,31.5654,-91.4259
+1474,Tallulah,Louisiana,1973.0,32.4085,-91.1868
+1475,Tallulah,Louisiana,1968.0,32.4085,-91.1868
+1476,Summerfield,Louisiana,,32.912426,-92.82934510000001
+1477,Shreveport,Louisiana,2012.0,32.5222,-93.7652
+1478,Shreveport,Louisiana,2005.0,32.5222,-93.7652
+1479,Shreveport,Louisiana,2001.0,32.5222,-93.7652
+1480,Shreveport,Louisiana,1999.0,32.5222,-93.7652
+1481,Shreveport,Louisiana,1998.0,32.5222,-93.7652
+1482,Shreveport,Louisiana,1990.0,32.5222,-93.7652
+1483,Shreveport,Louisiana,,32.5222,-93.7652
+1484,Sailes,Louisiana,1952.0,32.4254325,-93.10821930000002
+1485,Rayville,Louisiana,,32.4774,-91.7548
+1486,Pineville,Louisiana,1988.0,31.3224,-92.4343
+1487,New Orleans,Louisiana,2016.0,29.9499,-90.0701
+1488,New Orleans,Louisiana,2012.0,29.9499,-90.0701
+1489,New Orleans,Louisiana,2011.0,29.9499,-90.0701
+1490,New Orleans,Louisiana,2008.0,29.9499,-90.0701
+1491,New Orleans,Louisiana,2007.0,29.9499,-90.0701
+1492,New Orleans,Louisiana,2006.0,29.9499,-90.0701
+1493,New Orleans,Louisiana,2000.0,29.9499,-90.0701
+1494,New Orleans,Louisiana,1997.0,29.9499,-90.0701
+1495,New Orleans,Louisiana,1995.0,29.9499,-90.0701
+1496,New Orleans,Louisiana,1992.0,29.9499,-90.0701
+1497,New Orleans,Louisiana,1990.0,29.9499,-90.0701
+1498,New Orleans,Louisiana,1989.0,29.9499,-90.0701
+1499,New Orleans,Louisiana,1986.0,29.9499,-90.0701
+1500,New Orleans,Louisiana,1981.0,29.9499,-90.0701
+1501,New Orleans,Louisiana,1980.0,29.9499,-90.0701
+1502,New Orleans,Louisiana,1975.0,29.9499,-90.0701
+1503,New Orleans,Louisiana,1974.0,29.9499,-90.0701
+1504,New Orleans,Louisiana,1950.0,29.9499,-90.0701
+1505,New Orleans,Louisiana,,29.9499,-90.0701
+1506,Nachitoches,Louisiana,1978.0,31.7607195,-93.08627489999999
+1507,Nachitoches,Louisiana,,31.7607195,-93.08627489999999
+1508,Morgan City,Louisiana,2017.0,29.6994,-91.2068
+1509,Morgan City,Louisiana,1993.0,29.6994,-91.2068
+1510,Morgan City,Louisiana,,29.6994,-91.2068
+1511,Monroe,Louisiana,2007.0,32.5093,-92.1193
+1512,Monroe,Louisiana,2006.0,32.5093,-92.1193
+1513,Monroe,Louisiana,1991.0,32.5093,-92.1193
+1514,Monroe,Louisiana,1986.0,32.5093,-92.1193
+1515,Monroe,Louisiana,1983.0,32.5093,-92.1193
+1516,Monroe,Louisiana,1981.0,32.5093,-92.1193
+1517,Monroe,Louisiana,1980.0,32.5093,-92.1193
+1518,Monroe,Louisiana,1977.0,32.5093,-92.1193
+1519,Monroe,Louisiana,,32.5093,-92.1193
+1520,Minden,Louisiana,1966.0,32.6154,-93.2868
+1521,Minden,Louisiana,1961.0,32.6154,-93.2868
+1522,Mamou,Louisiana,2005.0,30.6338,-92.4193
+1523,Lake Charles,Louisiana,1981.0,30.2266,-93.2174
+1524,Lafayette,Louisiana,1992.0,30.2241,-92.0198
+1525,Lafayette,Louisiana,1991.0,30.2241,-92.0198
+1526,Jonesboro,Louisiana,1957.0,32.2413,-92.71600000000001
+1527,Iowa,Louisiana,2002.0,30.2369,-93.0138
+1528,Homer,Louisiana,2006.0,32.7918,-93.0557
+1529,Hico,Louisiana,,32.7448687,-92.7137631
+1530,Gretna,Louisiana,2015.0,29.9146,-90.054
+1531,Grambling,Louisiana,2015.0,32.5277,-92.714
+1532,DeRidder,Louisiana,1979.0,30.8462,-93.2893
+1533,DeQuincy,Louisiana,1993.0,30.4505,-93.4332
+1534,Columbia,Louisiana,1972.0,32.1052,-92.0779
+1535,Collinston,Louisiana,1998.0,32.691,-91.8718
+1536,Bossier City,Louisiana,1991.0,32.516,-93.7321
+1537,Bernice,Louisiana,1982.0,32.8221,-92.6579
+1538,Baton Rouge,Louisiana,2016.0,30.4507,-91.1546
+1539,Baton Rouge,Louisiana,2015.0,30.4507,-91.1546
+1540,Baton Rouge,Louisiana,2013.0,30.4507,-91.1546
+1541,Baton Rouge,Louisiana,2010.0,30.4507,-91.1546
+1542,Baton Rouge,Louisiana,2008.0,30.4507,-91.1546
+1543,Baton Rouge,Louisiana,2007.0,30.4507,-91.1546
+1544,Baton Rouge,Louisiana,2006.0,30.4507,-91.1546
+1545,Baton Rouge,Louisiana,1999.0,30.4507,-91.1546
+1546,Baton Rouge,Louisiana,1996.0,30.4507,-91.1546
+1547,Baton Rouge,Louisiana,1995.0,30.4507,-91.1546
+1548,Baton Rouge,Louisiana,1992.0,30.4507,-91.1546
+1549,Baton Rouge,Louisiana,1989.0,30.4507,-91.1546
+1550,Baton Rouge,Louisiana,1984.0,30.4507,-91.1546
+1551,Baton Rouge,Louisiana,1979.0,30.4507,-91.1546
+1552,Baton Rouge,Louisiana,1969.0,30.4507,-91.1546
+1553,Baton Rouge,Louisiana,,30.4507,-91.1546
+1554,Bastrop,Louisiana,1980.0,32.7757,-91.9073
+1555,Bastrop,Louisiana,1967.0,32.7757,-91.9073
+1556,Alexandria,Louisiana,1968.0,31.3112,-92.4449
+1557,Williamstown,Kentucky,,38.6381,-84.5605
+1558,Williamsport,Kentucky,1962.0,37.8207,-82.729
+1559,Wickliffe,Kentucky,1959.0,36.9647,-89.0893
+1560,Vanceburg,Kentucky,1961.0,38.5992,-83.3188
+1561,Sturgis,Kentucky,1963.0,37.5467,-87.9839
+1562,Scottsville,Kentucky,1972.0,36.7534,-86.1905
+1563,Russellville,Kentucky,1998.0,36.8453,-86.8872
+1564,Russellville,Kentucky,1973.0,36.8453,-86.8872
+1565,Russellville,Kentucky,1971.0,36.8453,-86.8872
+1566,Richmond,Kentucky,1949.0,37.7479,-84.2947
+1567,Princeton,Kentucky,1969.0,37.1092,-87.882
+1568,Paris,Kentucky,1999.0,38.2098,-84.25299999999999
+1569,Paris,Kentucky,1955.0,38.2098,-84.25299999999999
+1570,Owingsville,Kentucky,1963.0,38.1448,-83.7641
+1571,Owingsville,Kentucky,1959.0,38.1448,-83.7641
+1572,Owensboro,Kentucky,1979.0,37.7742,-87.1133
+1573,Owensboro,Kentucky,,37.7742,-87.1133
+1574,Newport,Kentucky,,39.0889,-84.492
+1575,Neon,Kentucky,1963.0,37.1915,-82.7135
+1576,Morganfield,Kentucky,1978.0,37.6834,-87.9167
+1577,Monticello,Kentucky,1960.0,36.8298,-84.8491
+1578,Midway,Kentucky,1948.0,38.1509,-84.6838
+1579,Maysville,Kentucky,2013.0,38.6412,-83.7444
+1580,Louisville,Kentucky,2012.0,38.2542,-85.7594
+1581,Louisville,Kentucky,2007.0,38.2542,-85.7594
+1582,Louisville,Kentucky,2006.0,38.2542,-85.7594
+1583,Louisville,Kentucky,2000.0,38.2542,-85.7594
+1584,Louisville,Kentucky,1998.0,38.2542,-85.7594
+1585,Louisville,Kentucky,1995.0,38.2542,-85.7594
+1586,Louisville,Kentucky,1994.0,38.2542,-85.7594
+1587,Louisville,Kentucky,1991.0,38.2542,-85.7594
+1588,Louisville,Kentucky,1990.0,38.2542,-85.7594
+1589,Louisville,Kentucky,1984.0,38.2542,-85.7594
+1590,Louisville,Kentucky,1983.0,38.2542,-85.7594
+1591,Louisville,Kentucky,1982.0,38.2542,-85.7594
+1592,Louisville,Kentucky,1981.0,38.2542,-85.7594
+1593,Louisville,Kentucky,1979.0,38.2542,-85.7594
+1594,Louisville,Kentucky,1978.0,38.2542,-85.7594
+1595,Louisville,Kentucky,1971.0,38.2542,-85.7594
+1596,Louisville,Kentucky,1968.0,38.2542,-85.7594
+1597,Louisville,Kentucky,1959.0,38.2542,-85.7594
+1598,Louisville,Kentucky,1958.0,38.2542,-85.7594
+1599,Louisville,Kentucky,,38.2542,-85.7594
+1600,Lexington,Kentucky,2012.0,38.0464,-84.49700000000001
+1601,Lexington,Kentucky,1990.0,38.0464,-84.49700000000001
+1602,Lexington,Kentucky,1986.0,38.0464,-84.49700000000001
+1603,Lexington,Kentucky,1985.0,38.0464,-84.49700000000001
+1604,Lexington,Kentucky,1983.0,38.0464,-84.49700000000001
+1605,Lexington,Kentucky,1979.0,38.0464,-84.49700000000001
+1606,Lexington,Kentucky,,38.0464,-84.49700000000001
+1607,Horse Cave,Kentucky,1972.0,37.1795,-85.9069
+1608,Hopkinsville,Kentucky,2014.0,36.8658,-87.48899999999999
+1609,Hopkinsville,Kentucky,2000.0,36.8658,-87.48899999999999
+1610,Hopkinsville,Kentucky,1994.0,36.8658,-87.48899999999999
+1611,Hopkinsville,Kentucky,1974.0,36.8658,-87.48899999999999
+1612,Henshaw,Kentucky,1952.0,37.6217133,-88.0555849
+1613,Henderson,Kentucky,1992.0,37.7672,-87.5574
+1614,Hazard,Kentucky,1968.0,37.2495,-83.1932
+1615,Harlan,Kentucky,,36.8431,-83.3218
+1616,Hardinsburg,Kentucky,1970.0,37.7801,-86.4605
+1617,Hardinsburg,Kentucky,1950.0,37.7801,-86.4605
+1618,Farmington,Kentucky,1962.0,36.6695,-88.5259
+1619,Covington,Kentucky,1970.0,39.0836,-84.5084
+1620,Covington,Kentucky,1964.0,39.0836,-84.5084
+1621,Covington,Kentucky,1963.0,39.0836,-84.5084
+1622,Covington,Kentucky,1950.0,39.0836,-84.5084
+1623,Corydon,Kentucky,,37.7434,-87.7039
+1624,Corbin,Kentucky,1959.0,36.9487,-84.0969
+1625,Corbin,Kentucky,1955.0,36.9487,-84.0969
+1626,Columbia,Kentucky,1959.0,37.1028,-85.3064
+1627,Central City,Kentucky,1955.0,37.2939,-87.1233
+1628,Campbellsville,Kentucky,1971.0,37.3434,-85.3419
+1629,Campbellsville,Kentucky,1968.0,37.3434,-85.3419
+1630,Caldwell,Kentucky,1949.0,37.1501019,-87.89424509999999
+1631,Burgin,Kentucky,1950.0,37.7534,-84.7666
+1632,Bowling Green,Kentucky,1989.0,36.9903,-86.4436
+1633,Birmingham,Kentucky,,36.9064438,-88.22364209999999
+1634,Beaver Dam,Kentucky,1950.0,37.402,-86.8758
+1635,Yale,Kansas,1950.0,37.4839373,-94.6419037
+1636,Wichita,Kansas,2002.0,37.6922,-97.3375
+1637,Wichita,Kansas,2000.0,37.6922,-97.3375
+1638,Wichita,Kansas,1999.0,37.6922,-97.3375
+1639,Wichita,Kansas,1987.0,37.6922,-97.3375
+1640,Watonga,Kansas,1993.0,35.8447654,-98.413128
+1641,Wamego,Kansas,1954.0,39.2019,-96.305
+1642,Spearville,Kansas,2016.0,37.85,-99.7568
+1643,Pratt,Kansas,1954.0,37.6281,-98.7485
+1644,Pittsburg,Kansas,1983.0,37.4109,-94.705
+1645,Overland Park,Kansas,2005.0,38.9822,-94.6708
+1646,Meriden,Kansas,2003.0,39.1889,-95.5697
+1647,Manhattan,Kansas,1949.0,39.1836,-96.5717
+1648,Liberal,Kansas,2006.0,37.0431,-100.921
+1649,Liberal,Kansas,1996.0,37.0431,-100.921
+1650,Leavenworth,Kansas,2006.0,39.3111,-94.9228
+1651,Lawrence,Kansas,1976.0,38.9719,-95.2359
+1652,Kansas City,Kansas,2002.0,39.1147,-94.7495
+1653,Kansas City,Kansas,1981.0,39.1147,-94.7495
+1654,Kansas City,Kansas,1975.0,39.1147,-94.7495
+1655,Kansas City,Kansas,1970.0,39.1147,-94.7495
+1656,Junction City,Kansas,1991.0,39.0286,-96.8314
+1657,Independence,Kansas,1983.0,37.2242,-95.7083
+1658,Hays,Kansas,2017.0,38.8792,-99.3268
+1659,Harper,Kansas,1975.0,37.2868,-98.0263
+1660,Fort Scott,Kansas,1949.0,37.84,-94.7083
+1661,Chanute,Kansas,2009.0,37.6792,-95.4572
+1662,Ark City,Kansas,1976.0,37.0619736,-97.0383712
+1663,Washington,Iowa,1995.0,41.2991,-91.6924
+1664,Sioux City,Iowa,2004.0,42.4967,-96.4059
+1665,Postville,Iowa,1997.0,43.0847,-91.5682
+1666,Oskaloosa,Iowa,2007.0,41.2964,-92.6444
+1667,Orange City,Iowa,2005.0,43.0072,-96.0583
+1668,Iowa City,Iowa,1996.0,41.6613,-91.5299
+1669,Iowa City,Iowa,1985.0,41.6613,-91.5299
+1670,Hampton,Iowa,1999.0,42.742,-93.2023
+1671,Grand View,Iowa,1950.0,41.2759,-91.1885
+1672,Fort Madison,Iowa,2000.0,40.6298,-91.3152
+1673,Emmetsburg,Iowa,1996.0,43.1127,-94.68299999999999
+1674,Dubuque,Iowa,1974.0,42.5006,-90.6648
+1675,Des Moines,Iowa,1991.0,41.5911,-93.6037
+1676,Des Moines,Iowa,1984.0,41.5911,-93.6037
+1677,Cedar Rapids,Iowa,2017.0,41.9759,-91.6704
+1678,Cedar Rapids,Iowa,1986.0,41.9759,-91.6704
+1679,Cedar Rapids,Iowa,1975.0,41.9759,-91.6704
+1680,Ames,Iowa,2013.0,42.0268,-93.6171
+1681,Ames,Iowa,1972.0,42.0268,-93.6171
+1682,Yorktown,Indiana,1950.0,40.1737,-85.4941
+1683,Whiting,Indiana,1950.0,41.6798,-87.4945
+1684,West Baden,Indiana,,38.5653318,-86.6111026
+1685,Washington,Indiana,2014.0,38.6592,-87.1728
+1686,Washington,Indiana,1949.0,38.6592,-87.1728
+1687,Valparaiso,Indiana,2014.0,41.4731,-87.0611
+1688,Tipton,Indiana,1975.0,40.2899,-86.0584
+1689,Terre Haute,Indiana,1990.0,39.4667,-87.4139
+1690,Terre Haute,Indiana,1963.0,39.4667,-87.4139
+1691,Terre Haute,Indiana,,39.4667,-87.4139
+1692,South Bend,Indiana,2017.0,41.6834,-86.25
+1693,South Bend,Indiana,2001.0,41.6834,-86.25
+1694,South Bend,Indiana,1996.0,41.6834,-86.25
+1695,South Bend,Indiana,1983.0,41.6834,-86.25
+1696,South Bend,Indiana,1977.0,41.6834,-86.25
+1697,South Bend,Indiana,1976.0,41.6834,-86.25
+1698,Richmond,Indiana,1947.0,39.8287,-84.8899
+1699,Petersburg,Indiana,,38.492,-87.2786
+1700,Pennville,Indiana,1980.0,40.4939,-85.1483
+1701,Pennville,Indiana,1957.0,40.4939,-85.1483
+1702,Otterbein,Indiana,1956.0,40.4906,-87.0964
+1703,New Castle,Indiana,1978.0,39.9289,-85.3702
+1704,New Castle,Indiana,,39.9289,-85.3702
+1705,Muncie,Indiana,1999.0,40.1937,-85.3865
+1706,Muncie,Indiana,1989.0,40.1937,-85.3865
+1707,Muncie,Indiana,1980.0,40.1937,-85.3865
+1708,Muncie,Indiana,1968.0,40.1937,-85.3865
+1709,Muncie,Indiana,1965.0,40.1937,-85.3865
+1710,Martinsville,Indiana,1981.0,39.4278,-86.4283
+1711,Marion,Indiana,2002.0,40.5584,-85.6591
+1712,Marion,Indiana,1976.0,40.5584,-85.6591
+1713,Marion,Indiana,1962.0,40.5584,-85.6591
+1714,LaPorte,Indiana,1987.0,41.61,-86.72
+1715,La Porte,Indiana,1966.0,41.61,-86.72
+1716,Indianapolis,Indiana,2017.0,39.7683,-86.1584
+1717,Indianapolis,Indiana,2013.0,39.7683,-86.1584
+1718,Indianapolis,Indiana,2011.0,39.7683,-86.1584
+1719,Indianapolis,Indiana,2010.0,39.7683,-86.1584
+1720,Indianapolis,Indiana,2009.0,39.7683,-86.1584
+1721,Indianapolis,Indiana,2008.0,39.7683,-86.1584
+1722,Indianapolis,Indiana,2006.0,39.7683,-86.1584
+1723,Indianapolis,Indiana,1996.0,39.7683,-86.1584
+1724,Indianapolis,Indiana,1995.0,39.7683,-86.1584
+1725,Indianapolis,Indiana,1994.0,39.7683,-86.1584
+1726,Indianapolis,Indiana,1984.0,39.7683,-86.1584
+1727,Indianapolis,Indiana,1982.0,39.7683,-86.1584
+1728,Indianapolis,Indiana,1981.0,39.7683,-86.1584
+1729,Indianapolis,Indiana,1979.0,39.7683,-86.1584
+1730,Indianapolis,Indiana,1975.0,39.7683,-86.1584
+1731,Indianapolis,Indiana,1974.0,39.7683,-86.1584
+1732,Indianapolis,Indiana,1972.0,39.7683,-86.1584
+1733,Indianapolis,Indiana,1950.0,39.7683,-86.1584
+1734,Indianapolis,Indiana,,39.7683,-86.1584
+1735,Huntingburg,Indiana,1973.0,38.2989,-86.955
+1736,Greencastle,Indiana,1972.0,39.6445,-86.8647
+1737,Grant County,Indiana,1952.0,40.4730605,-85.684578
+1738,Gary,Indiana,2016.0,41.6021,-87.3371
+1739,Gary,Indiana,2010.0,41.6021,-87.3371
+1740,Gary,Indiana,1995.0,41.6021,-87.3371
+1741,Gary,Indiana,1988.0,41.6021,-87.3371
+1742,Gary,Indiana,1980.0,41.6021,-87.3371
+1743,Gary,Indiana,1970.0,41.6021,-87.3371
+1744,Gary,Indiana,1960.0,41.6021,-87.3371
+1745,Gary,Indiana,1952.0,41.6021,-87.3371
+1746,Franklin,Indiana,1988.0,39.4806,-86.055
+1747,Franklin,Indiana,1966.0,39.4806,-86.055
+1748,Fort Wayne,Indiana,2017.0,41.08,-85.1386
+1749,Fort Wayne,Indiana,2014.0,41.08,-85.1386
+1750,Fort Wayne,Indiana,2013.0,41.08,-85.1386
+1751,Fort Wayne,Indiana,1999.0,41.08,-85.1386
+1752,Fort Wayne,Indiana,1991.0,41.08,-85.1386
+1753,Fort Wayne,Indiana,1981.0,41.08,-85.1386
+1754,Fort Wayne,Indiana,1949.0,41.08,-85.1386
+1755,Fishers,Indiana,2015.0,39.9556,-86.0139
+1756,Evansville,Indiana,1997.0,37.9748,-87.5558
+1757,Evansville,Indiana,1994.0,37.9748,-87.5558
+1758,Evansville,Indiana,1967.0,37.9748,-87.5558
+1759,Elkhart,Indiana,1991.0,41.681999999999995,-85.9767
+1760,Elkhart,Indiana,1990.0,41.681999999999995,-85.9767
+1761,East Chicago,Indiana,1976.0,41.6398,-87.4548
+1762,East Chicago,Indiana,1950.0,41.6398,-87.4548
+1763,Delphi,Indiana,1950.0,40.5875,-86.675
+1764,Chesterton,Indiana,2015.0,41.6106,-87.0642
+1765,Bloomington,Indiana,2003.0,39.167,-86.5343
+1766,Bloomington,Indiana,1991.0,39.167,-86.5343
+1767,Bedford,Indiana,1955.0,38.8612,-86.4872
+1768,Anderson,Indiana,1982.0,40.1053,-85.6803
+1769,Anderson,Indiana,1977.0,40.1053,-85.6803
+1770,Winfield,Illinois,2016.0,41.8617,-88.1609
+1771,Waukegan,Illinois,2000.0,42.3636,-87.8448
+1772,Waukegan,Illinois,1979.0,42.3636,-87.8448
+1773,Waukegan,Illinois,1973.0,42.3636,-87.8448
+1774,Washington,Illinois,1992.0,40.7034,-89.4066
+1775,Trenton,Illinois,1983.0,38.6051,-89.6818
+1776,Tolono,Illinois,2001.0,39.9861,-88.2589
+1777,Sterling,Illinois,1949.0,41.7886,-89.6962
+1778,Springfield,Illinois,2005.0,39.799,-89.6444
+1779,Springfield,Illinois,1990.0,39.799,-89.6444
+1780,Springfield,Illinois,1988.0,39.799,-89.6444
+1781,Sandwich,Illinois,1949.0,41.6459,-88.6217
+1782,Roxana,Illinois,,38.8483,-90.0769
+1783,Roselle,Illinois,1954.0,41.9848,-88.0798
+1784,Rockford,Illinois,2017.0,42.2714,-89.094
+1785,Rockford,Illinois,1997.0,42.2714,-89.094
+1786,Rockford,Illinois,1994.0,42.2714,-89.094
+1787,Rockford,Illinois,1952.0,42.2714,-89.094
+1788,Rock Island,Illinois,2017.0,41.5095,-90.5787
+1789,Quincy,Illinois,2002.0,39.9356,-91.4099
+1790,Quincy,Illinois,1987.0,39.9356,-91.4099
+1791,Quincy,Illinois,1962.0,39.9356,-91.4099
+1792,Princeton,Illinois,1960.0,41.3681,-89.4648
+1793,Phoenix,Illinois,1977.0,41.6111,-87.6348
+1794,Peoria,Illinois,2005.0,40.6939,-89.5891
+1795,Peoria,Illinois,1998.0,40.6939,-89.5891
+1796,Peoria,Illinois,1996.0,40.6939,-89.5891
+1797,Peoria,Illinois,1994.0,40.6939,-89.5891
+1798,Park Forest,Illinois,1983.0,41.44,-87.68
+1799,Oak Park,Illinois,2012.0,41.885,-87.7845
+1800,Oak Park,Illinois,1996.0,41.885,-87.7845
+1801,Niles,Illinois,1989.0,42.0289,-87.8122
+1802,Naperville,Illinois,1998.0,41.7729,-88.1479
+1803,Murphysboro,Illinois,1961.0,37.7645,-89.3351
+1804,Mt. Vernon,Illinois,1974.0,38.3172714,-88.9031201
+1805,Mount Vernon,Illinois,1949.0,38.3173,-88.9031
+1806,Moline,Illinois,1970.0,41.5067,-90.5151
+1807,Midlothian,Illinois,2007.0,41.6253,-87.7175
+1808,Midlothian,Illinois,1949.0,41.6253,-87.7175
+1809,Melrose Park,Illinois,2000.0,41.9006,-87.8567
+1810,Melrose Park,Illinois,1996.0,41.9006,-87.8567
+1811,McLeansboro,Illinois,,38.09,-88.54
+1812,Maywood,Illinois,2007.0,41.8792,-87.8431
+1813,Maywood,Illinois,1997.0,41.8792,-87.8431
+1814,Maywood,Illinois,1974.0,41.8792,-87.8431
+1815,Madison,Illinois,1968.0,38.6826,-90.1571
+1816,Lockport,Illinois,2016.0,41.5895,-88.0578
+1817,Lincoln,Illinois,2004.0,40.1484,-89.3648
+1818,Libertyville,Illinois,2007.0,42.2831,-87.9531
+1819,LaGrange,Illinois,1990.0,41.8055,-87.8749
+1820,Kewanee,Illinois,1975.0,41.2456,-89.9248
+1821,Kankakee,Illinois,1990.0,41.12,-87.8612
+1822,Kankakee,Illinois,1978.0,41.12,-87.8612
+1823,Joliet,Illinois,2007.0,41.525,-88.0817
+1824,Joliet,Illinois,,41.525,-88.0817
+1825,Harvey,Illinois,2003.0,41.62,-87.64
+1826,Harvey,Illinois,2002.0,41.62,-87.64
+1827,Harvey,Illinois,1987.0,41.62,-87.64
+1828,Harvey,Illinois,1982.0,41.62,-87.64
+1829,Harvey,Illinois,1971.0,41.62,-87.64
+1830,Griggsville,Illinois,1952.0,39.7089,-90.7246
+1831,Granite City,Illinois,2005.0,38.7014,-90.1487
+1832,Granite City,Illinois,,38.7014,-90.1487
+1833,Freeport,Illinois,1976.0,42.2967,-89.6212
+1834,Evanston,Illinois,2015.0,42.0447,-87.693
+1835,Evanston,Illinois,1995.0,42.0447,-87.693
+1836,Evanston,Illinois,1994.0,42.0447,-87.693
+1837,Evanston,Illinois,1989.0,42.0447,-87.693
+1838,Evanston,Illinois,1973.0,42.0447,-87.693
+1839,Elmhurst,Illinois,1987.0,41.8995,-87.9403
+1840,Elgin,Illinois,1967.0,42.0372,-88.2812
+1841,East St. Louis,Illinois,1993.0,38.6245,-90.1509
+1842,East St. Louis,Illinois,,38.6245,-90.1509
+1843,East Peoria,Illinois,1979.0,40.6661,-89.5801
+1844,Decatur,Illinois,2011.0,39.8454,-88.9524
+1845,Decatur,Illinois,1993.0,39.8454,-88.9524
+1846,Danville,Illinois,1999.0,40.1252,-87.6305
+1847,Christopher,Illinois,1974.0,37.9726,-89.0534
+1848,Christopher,Illinois,,37.9726,-89.0534
+1849,Chicago,Illinois,2016.0,41.8756,-87.6244
+1850,Chicago,Illinois,2015.0,41.8756,-87.6244
+1851,Chicago,Illinois,2013.0,41.8756,-87.6244
+1852,Chicago,Illinois,2012.0,41.8756,-87.6244
+1853,Chicago,Illinois,2011.0,41.8756,-87.6244
+1854,Chicago,Illinois,2010.0,41.8756,-87.6244
+1855,Chicago,Illinois,2009.0,41.8756,-87.6244
+1856,Chicago,Illinois,2008.0,41.8756,-87.6244
+1857,Chicago,Illinois,2007.0,41.8756,-87.6244
+1858,Chicago,Illinois,2006.0,41.8756,-87.6244
+1859,Chicago,Illinois,2005.0,41.8756,-87.6244
+1860,Chicago,Illinois,2004.0,41.8756,-87.6244
+1861,Chicago,Illinois,2003.0,41.8756,-87.6244
+1862,Chicago,Illinois,2002.0,41.8756,-87.6244
+1863,Chicago,Illinois,2001.0,41.8756,-87.6244
+1864,Chicago,Illinois,1999.0,41.8756,-87.6244
+1865,Chicago,Illinois,1998.0,41.8756,-87.6244
+1866,Chicago,Illinois,1997.0,41.8756,-87.6244
+1867,Chicago,Illinois,1996.0,41.8756,-87.6244
+1868,Chicago,Illinois,1995.0,41.8756,-87.6244
+1869,Chicago,Illinois,1994.0,41.8756,-87.6244
+1870,Chicago,Illinois,1993.0,41.8756,-87.6244
+1871,Chicago,Illinois,1991.0,41.8756,-87.6244
+1872,Chicago,Illinois,1990.0,41.8756,-87.6244
+1873,Chicago,Illinois,1989.0,41.8756,-87.6244
+1874,Chicago,Illinois,1988.0,41.8756,-87.6244
+1875,Chicago,Illinois,1986.0,41.8756,-87.6244
+1876,Chicago,Illinois,1985.0,41.8756,-87.6244
+1877,Chicago,Illinois,1984.0,41.8756,-87.6244
+1878,Chicago,Illinois,1983.0,41.8756,-87.6244
+1879,Chicago,Illinois,1982.0,41.8756,-87.6244
+1880,Chicago,Illinois,1981.0,41.8756,-87.6244
+1881,Chicago,Illinois,1979.0,41.8756,-87.6244
+1882,Chicago,Illinois,1978.0,41.8756,-87.6244
+1883,Chicago,Illinois,1977.0,41.8756,-87.6244
+1884,Chicago,Illinois,1976.0,41.8756,-87.6244
+1885,Chicago,Illinois,1975.0,41.8756,-87.6244
+1886,Chicago,Illinois,1973.0,41.8756,-87.6244
+1887,Chicago,Illinois,1967.0,41.8756,-87.6244
+1888,Chicago,Illinois,1965.0,41.8756,-87.6244
+1889,Chicago,Illinois,1962.0,41.8756,-87.6244
+1890,Chicago,Illinois,1960.0,41.8756,-87.6244
+1891,Chicago,Illinois,1958.0,41.8756,-87.6244
+1892,Chicago,Illinois,1957.0,41.8756,-87.6244
+1893,Chicago,Illinois,1955.0,41.8756,-87.6244
+1894,Chicago,Illinois,1954.0,41.8756,-87.6244
+1895,Chicago,Illinois,1951.0,41.8756,-87.6244
+1896,Chicago,Illinois,1950.0,41.8756,-87.6244
+1897,Chicago,Illinois,1949.0,41.8756,-87.6244
+1898,Chicago,Illinois,1948.0,41.8756,-87.6244
+1899,Chicago,Illinois,,41.8756,-87.6244
+1900,Charleston,Illinois,1971.0,39.4961,-88.1762
+1901,Centralia,Illinois,1950.0,38.525,-89.1334
+1902,Carbondale,Illinois,2012.0,37.7275,-89.2167
+1903,Carbondale,Illinois,1998.0,37.7275,-89.2167
+1904,Campbell Hill,Illinois,1959.0,37.9301,-89.54899999999999
+1905,Cairo,Illinois,1999.0,37.0058,-89.1772
+1906,Brooklyn,Illinois,1989.0,38.6586617,-90.16594309999999
+1907,Bellwood,Illinois,2014.0,41.8814,-87.8831
+1908,Belleville,Illinois,2001.0,38.5201,-89.984
+1909,Belleville,Illinois,1990.0,38.5201,-89.984
+1910,Batavia,Illinois,,41.85,-88.3126
+1911,Aurora,Illinois,1990.0,41.7606,-88.3201
+1912,Arlington Heights,Illinois,1979.0,42.0813,-87.9801
+1913,Pocatello,Idaho,1985.0,42.8689,-112.4401
+1914,Pocatello,Idaho,,42.8689,-112.4401
+1915,Coeur d'Alene,Idaho,2004.0,47.6777,-116.7805
+1916,Arco,Idaho,1949.0,43.6353,-113.3
+1917,American Falls,Idaho,1982.0,42.786,-112.8544
+1918,Maui,Hawaii,1991.0,20.7983626,-156.3319253
+1919,Hilo,Hawaii,1948.0,19.7068,-155.0814
+1920,Villa Rica,Georgia,2013.0,33.7321,-84.9191
+1921,Valdosta,Georgia,1982.0,30.8327,-83.2785
+1922,Twiggs,Georgia,1993.0,32.68356,-83.46435509999999
+1923,Twiggs,Georgia,,32.68356,-83.46435509999999
+1924,Toccoa,Georgia,1992.0,34.5774,-83.3329
+1925,Thomson,Georgia,2000.0,33.4707,-82.5046
+1926,Thomasville,Georgia,1995.0,30.8366,-83.9788
+1927,Thomaston,Georgia,2014.0,32.8882,-84.3266
+1928,Thomaston,Georgia,1984.0,32.8882,-84.3266
+1929,Talbottom,Georgia,1973.0,32.6776372,-84.5393664
+1930,Stone Mountain,Georgia,2013.0,33.8081,-84.1706
+1931,Stone Mountain,Georgia,,33.8081,-84.1706
+1932,Sparta,Georgia,1970.0,33.2757,-82.9763
+1933,Shellman,Georgia,2001.0,31.7563,-84.6152
+1934,Savannah,Georgia,2017.0,32.0835,-81.0998
+1935,Savannah,Georgia,2016.0,32.0835,-81.0998
+1936,Savannah,Georgia,2013.0,32.0835,-81.0998
+1937,Savannah,Georgia,1990.0,32.0835,-81.0998
+1938,Savannah,Georgia,1950.0,32.0835,-81.0998
+1939,Sandersville,Georgia,1995.0,32.9833,-82.8116
+1940,Sandersville,Georgia,1981.0,32.9833,-82.8116
+1941,Roswell,Georgia,2014.0,34.0233,-84.36
+1942,Rome,Georgia,1978.0,34.257,-85.1647
+1943,Roberta,Georgia,1987.0,32.722,-84.0131
+1944,Roberta,Georgia,,32.722,-84.0131
+1945,Perry,Georgia,2008.0,32.4587,-83.73200000000001
+1946,Norcross,Georgia,2010.0,33.9412,-84.2135
+1947,Newman,Georgia,1986.0,33.3806716,-84.79965729999999
+1948,Newman,Georgia,,33.3806716,-84.79965729999999
+1949,Moultrie,Georgia,1978.0,31.1812,-83.7879
+1950,Milan,Georgia,1979.0,32.0174,-83.0626
+1951,Marietta,Georgia,2000.0,33.9528,-84.5496
+1952,Marietta,Georgia,1999.0,33.9528,-84.5496
+1953,Marietta,Georgia,1997.0,33.9528,-84.5496
+1954,Marietta,Georgia,1987.0,33.9528,-84.5496
+1955,Marietta,Georgia,1984.0,33.9528,-84.5496
+1956,Macon,Georgia,1995.0,32.8407,-83.6324
+1957,Macon,Georgia,1981.0,32.8407,-83.6324
+1958,Macon,Georgia,1978.0,32.8407,-83.6324
+1959,Macon,Georgia,1972.0,32.8407,-83.6324
+1960,Macon,Georgia,1950.0,32.8407,-83.6324
+1961,Lithonia,Georgia,2009.0,33.7123,-84.1052
+1962,Jonesboro,Georgia,2010.0,33.5215,-84.3538
+1963,Hogansville,Georgia,1971.0,33.1732,-84.9149
+1964,Gray,Georgia,1982.0,33.0096,-83.5338
+1965,Gainesville,Georgia,2012.0,34.2979,-83.8241
+1966,Fitzgerald,Georgia,1969.0,31.7149,-83.2527
+1967,Elberton,Georgia,1984.0,34.1112,-82.8671
+1968,East Point,Georgia,2002.0,33.6796,-84.4394
+1969,Dublin,Georgia,1980.0,32.5404,-82.9038
+1970,Dalton,Georgia,2008.0,34.7692,-84.9702
+1971,Columbus,Georgia,2006.0,32.461,-84.9877
+1972,Columbus,Georgia,1997.0,32.461,-84.9877
+1973,Columbus,Georgia,1990.0,32.461,-84.9877
+1974,Columbus,Georgia,1976.0,32.461,-84.9877
+1975,Columbus,Georgia,1971.0,32.461,-84.9877
+1976,College Park,Georgia,2011.0,33.6534,-84.4494
+1977,Carrollton,Georgia,1992.0,33.5801,-85.0766
+1978,Canton,Georgia,2012.0,34.2368,-84.4908
+1979,Canton,Georgia,1971.0,34.2368,-84.4908
+1980,Canton,Georgia,,34.2368,-84.4908
+1981,Brunswick,Georgia,1995.0,31.15,-81.4915
+1982,Baxley,Georgia,1996.0,31.7783,-82.3485
+1983,Bainbridge,Georgia,1970.0,30.89,-84.57
+1984,Augusta,Georgia,2011.0,33.471,-81.9748
+1985,Augusta,Georgia,2000.0,33.471,-81.9748
+1986,Augusta,Georgia,1998.0,33.471,-81.9748
+1987,Augusta,Georgia,1990.0,33.471,-81.9748
+1988,Augusta,Georgia,1989.0,33.471,-81.9748
+1989,Augusta,Georgia,1988.0,33.471,-81.9748
+1990,Augusta,Georgia,1974.0,33.471,-81.9748
+1991,Atlanta,Georgia,2017.0,33.7491,-84.3902
+1992,Atlanta,Georgia,2015.0,33.7491,-84.3902
+1993,Atlanta,Georgia,2013.0,33.7491,-84.3902
+1994,Atlanta,Georgia,2012.0,33.7491,-84.3902
+1995,Atlanta,Georgia,2011.0,33.7491,-84.3902
+1996,Atlanta,Georgia,2010.0,33.7491,-84.3902
+1997,Atlanta,Georgia,2008.0,33.7491,-84.3902
+1998,Atlanta,Georgia,2005.0,33.7491,-84.3902
+1999,Atlanta,Georgia,2004.0,33.7491,-84.3902
+2000,Atlanta,Georgia,2002.0,33.7491,-84.3902
+2001,Atlanta,Georgia,2001.0,33.7491,-84.3902
+2002,Atlanta,Georgia,2000.0,33.7491,-84.3902
+2003,Atlanta,Georgia,1999.0,33.7491,-84.3902
+2004,Atlanta,Georgia,1998.0,33.7491,-84.3902
+2005,Atlanta,Georgia,1997.0,33.7491,-84.3902
+2006,Atlanta,Georgia,1995.0,33.7491,-84.3902
+2007,Atlanta,Georgia,1994.0,33.7491,-84.3902
+2008,Atlanta,Georgia,1993.0,33.7491,-84.3902
+2009,Atlanta,Georgia,1990.0,33.7491,-84.3902
+2010,Atlanta,Georgia,1989.0,33.7491,-84.3902
+2011,Atlanta,Georgia,1986.0,33.7491,-84.3902
+2012,Atlanta,Georgia,1984.0,33.7491,-84.3902
+2013,Atlanta,Georgia,1981.0,33.7491,-84.3902
+2014,Atlanta,Georgia,1979.0,33.7491,-84.3902
+2015,Atlanta,Georgia,1978.0,33.7491,-84.3902
+2016,Atlanta,Georgia,1971.0,33.7491,-84.3902
+2017,Atlanta,Georgia,1968.0,33.7491,-84.3902
+2018,Atlanta,Georgia,1963.0,33.7491,-84.3902
+2019,Atlanta,Georgia,,33.7491,-84.3902
+2020,Atlabta,Georgia,1975.0,33.7489954,-84.3879824
+2021,Albany,Georgia,2007.0,31.5782,-84.1557
+2022,Albany,Georgia,2001.0,31.5782,-84.1557
+2023,Albany,Georgia,1995.0,31.5782,-84.1557
+2024,Albany,Georgia,1975.0,31.5782,-84.1557
+2025,Winter Park,Florida,2008.0,28.5978,-81.351
+2026,Winter Haven,Florida,1978.0,28.0222,-81.7329
+2027,West Palm Beach,Florida,1996.0,26.7153,-80.0534
+2028,Weirsdale,Florida,1982.0,28.9819,-81.9242
+2029,Vero Beach,Florida,1997.0,27.6387,-80.3975
+2030,Tampa,Florida,2016.0,27.9478,-82.4584
+2031,Tampa,Florida,2015.0,27.9478,-82.4584
+2032,Tampa,Florida,2007.0,27.9478,-82.4584
+2033,Tampa,Florida,1999.0,27.9478,-82.4584
+2034,Tampa,Florida,1969.0,27.9478,-82.4584
+2035,Stuart,Florida,1972.0,27.198,-80.2519
+2036,St. Petersburg,Florida,2009.0,27.77,-82.65
+2037,Sarasota,Florida,1981.0,27.3364,-82.5307
+2038,Sarasota,Florida,,27.3364,-82.5307
+2039,Sanford,Florida,1982.0,28.8117,-81.268
+2040,Riviera Beach,Florida,2010.0,26.7753,-80.0581
+2041,Riviera Beach,Florida,1988.0,26.7753,-80.0581
+2042,Pensacola,Florida,2003.0,30.4213,-87.2169
+2043,Pensacola,Florida,1990.0,30.4213,-87.2169
+2044,Pensacola,Florida,1985.0,30.4213,-87.2169
+2045,Panama City,Florida,1980.0,30.1601,-85.6546
+2046,Pahokee,Florida,2011.0,26.8201,-80.6653
+2047,Orlando,Florida,2000.0,28.5421,-81.37899999999999
+2048,Orlando,Florida,1976.0,28.5421,-81.37899999999999
+2049,Ocala,Florida,1993.0,29.1872,-82.1401
+2050,Ocala,Florida,1991.0,29.1872,-82.1401
+2051,Ocala,Florida,1982.0,29.1872,-82.1401
+2052,Ocala,Florida,,29.1872,-82.1401
+2053,Monticello,Florida,1979.0,30.5452,-83.8702
+2054,Monticello,Florida,,30.5452,-83.8702
+2055,Milton,Florida,2006.0,30.6324,-87.0397
+2056,Milton,Florida,1989.0,30.6324,-87.0397
+2057,Milton,Florida,,30.6324,-87.0397
+2058,Miami,Florida,2017.0,25.7743,-80.1937
+2059,Miami,Florida,2005.0,25.7743,-80.1937
+2060,Miami,Florida,2004.0,25.7743,-80.1937
+2061,Miami,Florida,2000.0,25.7743,-80.1937
+2062,Miami,Florida,1994.0,25.7743,-80.1937
+2063,Miami,Florida,1993.0,25.7743,-80.1937
+2064,Miami,Florida,1990.0,25.7743,-80.1937
+2065,Miami,Florida,1969.0,25.7743,-80.1937
+2066,Miami,Florida,1968.0,25.7743,-80.1937
+2067,Melbourne,Florida,1989.0,28.0836,-80.6081
+2068,Lauderdale Lakes,Florida,2012.0,26.1667,-80.2086
+2069,Lakeland,Florida,2008.0,28.0395,-81.9498
+2070,Lakeland,Florida,1984.0,28.0395,-81.9498
+2071,Lake Wales,Florida,2003.0,27.9014,-81.5859
+2072,Lake Wales,Florida,1994.0,27.9014,-81.5859
+2073,Key West,Florida,,24.5626,-81.7724
+2074,Jasper,Florida,2004.0,30.5183,-82.9482
+2075,Jacksonville,Florida,1998.0,30.3322,-81.6557
+2076,Jacksonville,Florida,1996.0,30.3322,-81.6557
+2077,Jacksonville,Florida,1994.0,30.3322,-81.6557
+2078,Jacksonville,Florida,1991.0,30.3322,-81.6557
+2079,Jacksonville,Florida,1988.0,30.3322,-81.6557
+2080,Jacksonville,Florida,1987.0,30.3322,-81.6557
+2081,Jacksonville,Florida,1975.0,30.3322,-81.6557
+2082,Jacksonville,Florida,1964.0,30.3322,-81.6557
+2083,Jacksonville,Florida,,30.3322,-81.6557
+2084,Hollywood,Florida,2004.0,26.0112,-80.1495
+2085,Hollywood,Florida,1982.0,26.0112,-80.1495
+2086,Haines City,Florida,1976.0,28.1066,-81.6291
+2087,Gainesville,Florida,2006.0,29.6519,-82.3248
+2088,Gainesville,Florida,1989.0,29.6519,-82.3248
+2089,Ft. Lauderdale,Florida,2001.0,26.1223,-80.1434
+2090,Fort Walton,Florida,1990.0,30.42007079999999,-86.6170308
+2091,Fort Pierce,Florida,2011.0,27.4467,-80.3256
+2092,Fort Myers,Florida,1967.0,26.6406,-81.8723
+2093,Fort Lauderdale,Florida,2008.0,26.1223,-80.1434
+2094,Fort Lauderdale,Florida,,26.1223,-80.1434
+2095,Eustis,Florida,2007.0,28.8528,-81.6854
+2096,Daytona Beach,Florida,2001.0,29.2108,-81.0228
+2097,Daytona Beach,Florida,1999.0,29.2108,-81.0228
+2098,Daytona Beach,Florida,1990.0,29.2108,-81.0228
+2099,Daytona,Florida,2005.0,29.2108147,-81.0228331
+2100,Coral Gables,Florida,1992.0,25.7215,-80.2684
+2101,Coral Gables,Florida,1979.0,25.7215,-80.2684
+2102,Cocoa,Florida,2000.0,28.3861,-80.742
+2103,Clearwater,Florida,2017.0,27.9659,-82.8001
+2104,Clearwater,Florida,1986.0,27.9659,-82.8001
+2105,Chipley,Florida,,30.7819,-85.5385
+2106,Casselberry,Florida,2014.0,28.6715,-81.3382
+2107,Casselberry,Florida,2012.0,28.6715,-81.3382
+2108,Cape Coral,Florida,1987.0,26.6059,-81.9807
+2109,Brandon,Florida,1991.0,27.9378,-82.2859
+2110,Bradenton,Florida,1995.0,27.4989,-82.5748
+2111,Boynton Beach,Florida,1985.0,26.5253,-80.0664
+2112,Belle Glade,Florida,1966.0,26.6845,-80.6676
+2113,Bartow,Florida,2004.0,27.8964,-81.8431
+2114,Bartow,Florida,1998.0,27.8964,-81.8431
+2115,Washington,District of Columbia,2017.0,38.895,-77.0366
+2116,Washington,District of Columbia,2013.0,38.895,-77.0366
+2117,Washington,District of Columbia,2011.0,38.895,-77.0366
+2118,Washington,District of Columbia,2010.0,38.895,-77.0366
+2119,Washington,District of Columbia,2008.0,38.895,-77.0366
+2120,Washington,District of Columbia,2006.0,38.895,-77.0366
+2121,Washington,District of Columbia,2005.0,38.895,-77.0366
+2122,Washington,District of Columbia,2003.0,38.895,-77.0366
+2123,Washington,District of Columbia,1997.0,38.895,-77.0366
+2124,Washington,District of Columbia,1996.0,38.895,-77.0366
+2125,Washington,District of Columbia,1995.0,38.895,-77.0366
+2126,Washington,District of Columbia,1992.0,38.895,-77.0366
+2127,Washington,District of Columbia,1990.0,38.895,-77.0366
+2128,Washington,District of Columbia,1989.0,38.895,-77.0366
+2129,Washington,District of Columbia,1987.0,38.895,-77.0366
+2130,Washington,District of Columbia,1986.0,38.895,-77.0366
+2131,Washington,District of Columbia,1985.0,38.895,-77.0366
+2132,Washington,District of Columbia,1984.0,38.895,-77.0366
+2133,Washington,District of Columbia,1981.0,38.895,-77.0366
+2134,Washington,District of Columbia,1978.0,38.895,-77.0366
+2135,Washington,District of Columbia,1975.0,38.895,-77.0366
+2136,Washington,District of Columbia,1974.0,38.895,-77.0366
+2137,Washington,District of Columbia,1972.0,38.895,-77.0366
+2138,Washington,District of Columbia,1971.0,38.895,-77.0366
+2139,Washington,District of Columbia,1970.0,38.895,-77.0366
+2140,Washington,District of Columbia,1968.0,38.895,-77.0366
+2141,Washington,District of Columbia,1967.0,38.895,-77.0366
+2142,Washington,District of Columbia,1966.0,38.895,-77.0366
+2143,Washington,District of Columbia,1964.0,38.895,-77.0366
+2144,Washington,District of Columbia,1963.0,38.895,-77.0366
+2145,Washington,District of Columbia,,38.895,-77.0366
+2146,Wilmington,Delaware,2006.0,39.7459,-75.5466
+2147,Wilmington,Delaware,1997.0,39.7459,-75.5466
+2148,Wilmington,Delaware,1985.0,39.7459,-75.5466
+2149,Wilmington,Delaware,,39.7459,-75.5466
+2150,Dover,Delaware,1988.0,39.1582,-75.5244
+2151,Waterbury,Connecticut,2006.0,41.5582,-73.0515
+2152,Norwalk,Connecticut,,41.1176,-73.4079
+2153,New London,Connecticut,2017.0,41.3557,-72.0995
+2154,New Haven,Connecticut,1994.0,41.3082,-72.9251
+2155,New Haven,Connecticut,1992.0,41.3082,-72.9251
+2156,New Haven,Connecticut,1986.0,41.3082,-72.9251
+2157,New Haven,Connecticut,1980.0,41.3082,-72.9251
+2158,New Haven,Connecticut,1974.0,41.3082,-72.9251
+2159,New Haven,Connecticut,1958.0,41.3082,-72.9251
+2160,New Haven,Connecticut,,41.3082,-72.9251
+2161,New Canaan,Connecticut,1983.0,41.1468,-73.4948
+2162,New Britain,Connecticut,1999.0,41.6612,-72.7795
+2163,Monroe,Connecticut,1981.0,41.3326,-73.2073
+2164,Middletown,Connecticut,1983.0,41.5623,-72.6506
+2165,Meriden,Connecticut,1985.0,41.5382,-72.807
+2166,Litchfield,Connecticut,1985.0,41.7473,-73.1887
+2167,Hartford,Connecticut,2017.0,41.7635,-72.6831
+2168,Hartford,Connecticut,2002.0,41.7635,-72.6831
+2169,Hartford,Connecticut,1998.0,41.7635,-72.6831
+2170,Hartford,Connecticut,1997.0,41.7635,-72.6831
+2171,Hartford,Connecticut,1986.0,41.7635,-72.6831
+2172,Hartford,Connecticut,1984.0,41.7635,-72.6831
+2173,Hartford,Connecticut,1981.0,41.7635,-72.6831
+2174,Hartford,Connecticut,1973.0,41.7635,-72.6831
+2175,Hartford,Connecticut,1962.0,41.7635,-72.6831
+2176,Bristol,Connecticut,1984.0,41.6736,-72.9464
+2177,Bridgeport,Connecticut,1989.0,41.167,-73.2048
+2178,Bridgeport,Connecticut,1984.0,41.167,-73.2048
+2179,Bridgeport,Connecticut,1983.0,41.167,-73.2048
+2180,Bridgeport,Connecticut,1976.0,41.167,-73.2048
+2181,Bridgeport,Connecticut,,41.167,-73.2048
+2182,Steamboat Springs,Colorado,1947.0,40.4848,-106.8317
+2183,Durango,Colorado,1995.0,37.2754,-107.8799
+2184,Denver,Colorado,2008.0,39.7348,-104.9653
+2185,Denver,Colorado,2004.0,39.7348,-104.9653
+2186,Denver,Colorado,2000.0,39.7348,-104.9653
+2187,Denver,Colorado,1998.0,39.7348,-104.9653
+2188,Denver,Colorado,1995.0,39.7348,-104.9653
+2189,Denver,Colorado,1973.0,39.7348,-104.9653
+2190,Denver,Colorado,1957.0,39.7348,-104.9653
+2191,Cortez,Colorado,1983.0,37.3494,-108.5872
+2192,Colorado Springs,Colorado,1986.0,38.834,-104.8253
+2193,Colorado Springs,Colorado,,38.834,-104.8253
+2194,Boulder,Colorado,1987.0,40.015,-105.2705
+2195,Boulder,Colorado,1978.0,40.015,-105.2705
+2196,Aurora,Colorado,2001.0,39.7294,-104.8319
+2197,Westminster,California,1983.0,33.7578,-117.9859
+2198,West Covina,California,2017.0,34.0686,-117.939
+2199,West Covina,California,2006.0,34.0686,-117.939
+2200,West Covina,California,1980.0,34.0686,-117.939
+2201,Watsonville,California,1956.0,36.9093,-121.7529
+2202,Walnut Creek,California,2001.0,37.9063,-122.065
+2203,Walnut Creek,California,1990.0,37.9063,-122.065
+2204,Visalia,California,2013.0,36.3302,-119.2921
+2205,Ventura,California,2015.0,34.2783,-119.2932
+2206,Ventura,California,2007.0,34.2783,-119.2932
+2207,Upland,California,2004.0,34.0975,-117.6484
+2208,Tulare,California,1980.0,36.2077,-119.3473
+2209,Torrance,California,1988.0,33.8358,-118.3406
+2210,Torrance,California,1986.0,33.8358,-118.3406
+2211,Torrance,California,1973.0,33.8358,-118.3406
+2212,Tarzana,California,2008.0,34.1728,-118.5534
+2213,Stockton,California,1993.0,37.9577,-121.2908
+2214,Stockton,California,1973.0,37.9577,-121.2908
+2215,South Gate,California,1981.0,33.9463,-118.20100000000001
+2216,Santa Monica,California,2013.0,34.0196,-118.48700000000001
+2217,Santa Monica,California,2009.0,34.0196,-118.48700000000001
+2218,Santa Monica,California,1992.0,34.0196,-118.48700000000001
+2219,Santa Maria,California,1963.0,34.9531,-120.4359
+2220,Santa Cruz,California,2000.0,36.9746,-122.0294
+2221,Santa Cruz,California,1992.0,36.9746,-122.0294
+2222,Santa Barbara,California,1976.0,34.4098,-119.697
+2223,San Pedro,California,1983.0,33.7359,-118.2923
+2224,San Pedro,California,1976.0,33.7359,-118.2923
+2225,San Pedro,California,,33.7359,-118.2923
+2226,San Mateo,California,1986.0,37.5446,-122.3091
+2227,San Mateo,California,1976.0,37.5446,-122.3091
+2228,San Mateo,California,1954.0,37.5446,-122.3091
+2229,San Luis Obispo,California,1970.0,35.2828,-120.6596
+2230,San Leandro,California,2006.0,37.7249,-122.1561
+2231,San Jose,California,2015.0,37.2751,-121.8261
+2232,San Jose,California,2014.0,37.2751,-121.8261
+2233,San Jose,California,1993.0,37.2751,-121.8261
+2234,San Jose,California,1983.0,37.2751,-121.8261
+2235,San Jose,California,1979.0,37.2751,-121.8261
+2236,San Jose,California,1978.0,37.2751,-121.8261
+2237,San Gabriel,California,1961.0,34.0991,-118.1086
+2238,San Francisco,California,2002.0,37.7648,-122.463
+2239,San Francisco,California,1995.0,37.7648,-122.463
+2240,San Francisco,California,1992.0,37.7648,-122.463
+2241,San Francisco,California,1991.0,37.7648,-122.463
+2242,San Francisco,California,1989.0,37.7648,-122.463
+2243,San Francisco,California,1988.0,37.7648,-122.463
+2244,San Francisco,California,1979.0,37.7648,-122.463
+2245,San Francisco,California,1975.0,37.7648,-122.463
+2246,San Francisco,California,1970.0,37.7648,-122.463
+2247,San Francisco,California,1966.0,37.7648,-122.463
+2248,San Francisco,California,1958.0,37.7648,-122.463
+2249,San Francisco,California,1956.0,37.7648,-122.463
+2250,San Francisco,California,1951.0,37.7648,-122.463
+2251,San Francisco,California,1949.0,37.7648,-122.463
+2252,San Francisco,California,1948.0,37.7648,-122.463
+2253,San Francisco,California,1947.0,37.7648,-122.463
+2254,San Diego,California,2016.0,32.7174,-117.1628
+2255,San Diego,California,2014.0,32.7174,-117.1628
+2256,San Diego,California,2012.0,32.7174,-117.1628
+2257,San Diego,California,2008.0,32.7174,-117.1628
+2258,San Diego,California,2004.0,32.7174,-117.1628
+2259,San Diego,California,1991.0,32.7174,-117.1628
+2260,San Diego,California,1990.0,32.7174,-117.1628
+2261,San Diego,California,1983.0,32.7174,-117.1628
+2262,San Diego,California,1979.0,32.7174,-117.1628
+2263,San Diego,California,1976.0,32.7174,-117.1628
+2264,San Bernardino,California,1998.0,34.1083,-117.2898
+2265,San Bernardino,California,1997.0,34.1083,-117.2898
+2266,San Bernardino,California,1994.0,34.1083,-117.2898
+2267,San Bernardino,California,1979.0,34.1083,-117.2898
+2268,Salida,California,1973.0,37.7058,-121.0849
+2269,Sacramento,California,2017.0,38.4732,-121.2981
+2270,Sacramento,California,2009.0,38.4732,-121.2981
+2271,Sacramento,California,2002.0,38.4732,-121.2981
+2272,Sacramento,California,1986.0,38.4732,-121.2981
+2273,Sacramento,California,1983.0,38.4732,-121.2981
+2274,Sacramento,California,1972.0,38.4732,-121.2981
+2275,Sacramento,California,1969.0,38.4732,-121.2981
+2276,Sacramento,California,1952.0,38.4732,-121.2981
+2277,Rosemead,California,1989.0,34.0676,-118.088
+2278,Riverside,California,2014.0,33.9534,-117.3962
+2279,Riverside,California,2012.0,33.9534,-117.3962
+2280,Riverside,California,1999.0,33.9534,-117.3962
+2281,Riverside,California,1998.0,33.9534,-117.3962
+2282,Riverside,California,1997.0,33.9534,-117.3962
+2283,Riverside,California,1994.0,33.9534,-117.3962
+2284,Riverside,California,1972.0,33.9534,-117.3962
+2285,Riverside,California,1971.0,33.9534,-117.3962
+2286,Riverside,California,1968.0,33.9534,-117.3962
+2287,Riverside,California,,33.9534,-117.3962
+2288,Reseda,California,1975.0,34.2011,-118.5365
+2289,Reedley,California,1989.0,36.5963,-119.4504
+2290,Rancho Cucamonga,California,2010.0,34.1033,-117.5752
+2291,Pittsburg,California,1980.0,38.028,-121.8847
+2292,Pasadena,California,2014.0,34.1476,-118.1445
+2293,Pasadena,California,2007.0,34.1476,-118.1445
+2294,Pasadena,California,1995.0,34.1476,-118.1445
+2295,Pasadena,California,1992.0,34.1476,-118.1445
+2296,Palo Alto,California,2011.0,37.4422,-122.1634
+2297,Palo Alto,California,2000.0,37.4422,-122.1634
+2298,Palo Alto,California,1993.0,37.4422,-122.1634
+2299,Palmdale,California,2011.0,34.5793,-118.1171
+2300,Orange,California,1994.0,33.7873,-117.8503
+2301,Ontario,California,1948.0,34.0658,-117.6484
+2302,Oceanside,California,1976.0,33.1959,-117.3795
+2303,Oakland,California,2017.0,37.8045,-122.2714
+2304,Oakland,California,2015.0,37.8045,-122.2714
+2305,Oakland,California,2013.0,37.8045,-122.2714
+2306,Oakland,California,2009.0,37.8045,-122.2714
+2307,Oakland,California,2003.0,37.8045,-122.2714
+2308,Oakland,California,1999.0,37.8045,-122.2714
+2309,Oakland,California,1998.0,37.8045,-122.2714
+2310,Oakland,California,1994.0,37.8045,-122.2714
+2311,Oakland,California,1993.0,37.8045,-122.2714
+2312,Oakland,California,1991.0,37.8045,-122.2714
+2313,Oakland,California,1989.0,37.8045,-122.2714
+2314,Oakland,California,1980.0,37.8045,-122.2714
+2315,Oakland,California,1976.0,37.8045,-122.2714
+2316,Oakland,California,1951.0,37.8045,-122.2714
+2317,Oakland,California,,37.8045,-122.2714
+2318,North Hollywood,California,2009.0,34.1729,-118.374
+2319,Newport Beach,California,2014.0,33.617,-117.9294
+2320,Moreno Valley,California,2014.0,33.9375,-117.2306
+2321,Monterey,California,2013.0,36.6003,-121.8946
+2322,Monrovia,California,1994.0,34.1483,-118.0015
+2323,Modesto,California,1968.0,37.6391,-120.9969
+2324,Mission Hills,California,2013.0,34.2572,-118.46700000000001
+2325,Merced,California,1997.0,37.303000000000004,-120.4843
+2326,Merced,California,1994.0,37.303000000000004,-120.4843
+2327,Lynwood,California,1980.0,33.9303,-118.2115
+2328,Lynwood,California,1969.0,33.9303,-118.2115
+2329,Lynwood,California,,33.9303,-118.2115
+2330,Los Gatos,California,2001.0,37.2266,-121.9747
+2331,Los Angelse,California,1947.0,34.0522342,-118.2436849
+2332,Los Angeles,California,2017.0,34.0544,-118.2439
+2333,Los Angeles,California,2016.0,34.0544,-118.2439
+2334,Los Angeles,California,2015.0,34.0544,-118.2439
+2335,Los Angeles,California,2014.0,34.0544,-118.2439
+2336,Los Angeles,California,2012.0,34.0544,-118.2439
+2337,Los Angeles,California,2011.0,34.0544,-118.2439
+2338,Los Angeles,California,2010.0,34.0544,-118.2439
+2339,Los Angeles,California,2008.0,34.0544,-118.2439
+2340,Los Angeles,California,2007.0,34.0544,-118.2439
+2341,Los Angeles,California,2006.0,34.0544,-118.2439
+2342,Los Angeles,California,2005.0,34.0544,-118.2439
+2343,Los Angeles,California,2002.0,34.0544,-118.2439
+2344,Los Angeles,California,2001.0,34.0544,-118.2439
+2345,Los Angeles,California,2000.0,34.0544,-118.2439
+2346,Los Angeles,California,1999.0,34.0544,-118.2439
+2347,Los Angeles,California,1998.0,34.0544,-118.2439
+2348,Los Angeles,California,1997.0,34.0544,-118.2439
+2349,Los Angeles,California,1996.0,34.0544,-118.2439
+2350,Los Angeles,California,1994.0,34.0544,-118.2439
+2351,Los Angeles,California,1993.0,34.0544,-118.2439
+2352,Los Angeles,California,1992.0,34.0544,-118.2439
+2353,Los Angeles,California,1991.0,34.0544,-118.2439
+2354,Los Angeles,California,1990.0,34.0544,-118.2439
+2355,Los Angeles,California,1989.0,34.0544,-118.2439
+2356,Los Angeles,California,1987.0,34.0544,-118.2439
+2357,Los Angeles,California,1986.0,34.0544,-118.2439
+2358,Los Angeles,California,1985.0,34.0544,-118.2439
+2359,Los Angeles,California,1984.0,34.0544,-118.2439
+2360,Los Angeles,California,1983.0,34.0544,-118.2439
+2361,Los Angeles,California,1981.0,34.0544,-118.2439
+2362,Los Angeles,California,1980.0,34.0544,-118.2439
+2363,Los Angeles,California,1979.0,34.0544,-118.2439
+2364,Los Angeles,California,1978.0,34.0544,-118.2439
+2365,Los Angeles,California,1974.0,34.0544,-118.2439
+2366,Los Angeles,California,1973.0,34.0544,-118.2439
+2367,Los Angeles,California,1972.0,34.0544,-118.2439
+2368,Los Angeles,California,1967.0,34.0544,-118.2439
+2369,Los Angeles,California,1959.0,34.0544,-118.2439
+2370,Los Angeles,California,1949.0,34.0544,-118.2439
+2371,Los Angeles,California,,34.0544,-118.2439
+2372,Long Beach,California,2016.0,33.7775,-118.1885
+2373,Long Beach,California,2015.0,33.7775,-118.1885
+2374,Long Beach,California,2011.0,33.7775,-118.1885
+2375,Long Beach,California,2009.0,33.7775,-118.1885
+2376,Long Beach,California,2004.0,33.7775,-118.1885
+2377,Long Beach,California,2003.0,33.7775,-118.1885
+2378,Long Beach,California,2002.0,33.7775,-118.1885
+2379,Long Beach,California,1994.0,33.7775,-118.1885
+2380,Long Beach,California,1989.0,33.7775,-118.1885
+2381,Long Beach,California,1988.0,33.7775,-118.1885
+2382,Long Beach,California,1985.0,33.7775,-118.1885
+2383,Long Beach,California,1981.0,33.7775,-118.1885
+2384,Long Beach,California,1973.0,33.7775,-118.1885
+2385,Long Beach,California,1951.0,33.7775,-118.1885
+2386,Lompoc,California,1978.0,34.6392,-120.4579
+2387,Lodi,California,1980.0,38.1302,-121.2724
+2388,Lancaster,California,2014.0,34.6981,-118.1366
+2389,Lakewood,California,2004.0,33.8503,-118.1172
+2390,Lakewood,California,1982.0,33.8503,-118.1172
+2391,Lakeport,California,1957.0,39.043,-122.9158
+2392,Laguna,California,2005.0,38.421,-121.4238
+2393,La Mesa,California,1981.0,32.7678,-117.0231
+2394,La Mesa,California,,32.7678,-117.0231
+2395,Irvine,California,2010.0,33.6857,-117.82600000000001
+2396,Irvine,California,1993.0,33.6857,-117.82600000000001
+2397,Inglewood,California,2015.0,33.9617,-118.3531
+2398,Inglewood,California,2007.0,33.9617,-118.3531
+2399,Inglewood,California,2003.0,33.9617,-118.3531
+2400,Inglewood,California,1993.0,33.9617,-118.3531
+2401,Inglewood,California,1989.0,33.9617,-118.3531
+2402,Inglewood,California,1988.0,33.9617,-118.3531
+2403,Inglewood,California,1979.0,33.9617,-118.3531
+2404,Inglewood,California,,33.9617,-118.3531
+2405,Huntington Beach,California,1968.0,33.6781,-118.0
+2406,Hollywood,California,1987.0,34.1028,-118.33
+2407,Hollywood,California,1981.0,34.1028,-118.33
+2408,Hollywood,California,1971.0,34.1028,-118.33
+2409,Hollywood,California,,34.1028,-118.33
+2410,Hayward,California,2017.0,37.6688,-122.0808
+2411,Harbor City,California,2005.0,33.7973,-118.3005
+2412,Harbor City,California,1986.0,33.7973,-118.3005
+2413,Hanford,California,2002.0,36.3275,-119.6457
+2414,Hanford,California,1982.0,36.3275,-119.6457
+2415,Hacienda Heights,California,1991.0,33.9931,-117.9687
+2416,Gridley,California,1992.0,39.3638,-121.6936
+2417,Greenbrae,California,2013.0,37.9485,-122.5247
+2418,Glendora,California,2003.0,34.1361,-117.8653
+2419,Gardena,California,2003.0,33.8883,-118.3071
+2420,Gardena,California,1996.0,33.8883,-118.3071
+2421,Fullerton,California,1987.0,33.8708,-117.9294
+2422,Fresno,California,2011.0,36.6714,-119.8155
+2423,Fresno,California,2004.0,36.6714,-119.8155
+2424,Fresno,California,2003.0,36.6714,-119.8155
+2425,Fresno,California,2001.0,36.6714,-119.8155
+2426,Fresno,California,1992.0,36.6714,-119.8155
+2427,Fresno,California,1986.0,36.6714,-119.8155
+2428,Fresno,California,1976.0,36.6714,-119.8155
+2429,Fresno,California,,36.6714,-119.8155
+2430,French Camp,California,1989.0,37.8841,-121.2711
+2431,Fountain Valley,California,2001.0,33.7038,-117.9627
+2432,Fort Ord,California,1981.0,36.626614,-121.691362
+2433,Eureka,California,,40.8021,-124.1637
+2434,Encinitas,California,2010.0,33.037,-117.292
+2435,Encinitas,California,1966.0,33.037,-117.292
+2436,Edwards AFB,California,1978.0,34.9261,-117.9351
+2437,Downey,California,1971.0,33.94,-118.1326
+2438,Danville,California,2012.0,37.8216,-122.0
+2439,Cupertino,California,1982.0,37.323,-122.0323
+2440,Covina,California,1970.0,34.0878,-117.8891
+2441,Costa Mesa,California,2015.0,33.6633,-117.9033
+2442,Compton,California,2015.0,33.8949,-118.226
+2443,Compton,California,2010.0,33.8949,-118.226
+2444,Compton,California,2006.0,33.8949,-118.226
+2445,Compton,California,2004.0,33.8949,-118.226
+2446,Compton,California,2003.0,33.8949,-118.226
+2447,Compton,California,1999.0,33.8949,-118.226
+2448,Colton,California,2007.0,34.0739,-117.3137
+2449,Claremont,California,1987.0,34.0967,-117.7198
+2450,Chula Vista,California,1973.0,32.6401,-117.0842
+2451,Chatsworth,California,2010.0,34.2596,-118.6023
+2452,Cerritos,California,2014.0,33.8644,-118.0539
+2453,Bloomington,California,1997.0,34.0703,-117.3959
+2454,Berkeley,California,2007.0,37.8708,-122.2729
+2455,Berkeley,California,2001.0,37.8708,-122.2729
+2456,Berkeley,California,1981.0,37.8708,-122.2729
+2457,Berkeley,California,1976.0,37.8708,-122.2729
+2458,Berkeley,California,1972.0,37.8708,-122.2729
+2459,Berkeley,California,,37.8708,-122.2729
+2460,Bellflower,California,1998.0,33.8826,-118.1168
+2461,Bakersfield,California,2005.0,35.3739,-119.0195
+2462,Bakersfield,California,1995.0,35.3739,-119.0195
+2463,Bakersfield,California,1988.0,35.3739,-119.0195
+2464,Bakersfield,California,1977.0,35.3739,-119.0195
+2465,Bakersfield,California,1973.0,35.3739,-119.0195
+2466,West Memphis,Arkansas,2009.0,35.1465,-90.1845
+2467,West Memphis,Arkansas,1997.0,35.1465,-90.1845
+2468,West Memphis,Arkansas,1986.0,35.1465,-90.1845
+2469,West Memphis,Arkansas,1985.0,35.1465,-90.1845
+2470,West Memphis,Arkansas,,35.1465,-90.1845
+2471,Tuckerman,Arkansas,1965.0,35.7306,-91.1985
+2472,Tuckerman,Arkansas,,35.7306,-91.1985
+2473,Prescott,Arkansas,1965.0,33.8026,-93.381
+2474,Plummerville,Arkansas,1981.0,35.1600836,-92.6407177
+2475,Pine Bluff,Arkansas,1996.0,34.2284,-92.0032
+2476,Pine Bluff,Arkansas,1989.0,34.2284,-92.0032
+2477,Pine Bluff,Arkansas,1983.0,34.2284,-92.0032
+2478,Pine Bluff,Arkansas,,34.2284,-92.0032
+2479,Osecola,Arkansas,1997.0,35.7050778,-89.96953200000002
+2480,North Little Rock,Arkansas,1964.0,34.7695,-92.2671
+2481,Menifee,Arkansas,1992.0,35.1484,-92.554
+2482,McGhee,Arkansas,1980.0,33.6255234,-91.3945566
+2483,McGhee,Arkansas,,33.6255234,-91.3945566
+2484,McGehee,Arkansas,1984.0,33.62,-91.39
+2485,McGehee,Arkansas,1974.0,33.62,-91.39
+2486,Malvern,Arkansas,2003.0,34.3623,-92.8129
+2487,Malvern,Arkansas,1957.0,34.3623,-92.8129
+2488,Little Rock,Arkansas,2016.0,34.7465,-92.2896
+2489,Little Rock,Arkansas,2014.0,34.7465,-92.2896
+2490,Little Rock,Arkansas,2000.0,34.7465,-92.2896
+2491,Little Rock,Arkansas,1997.0,34.7465,-92.2896
+2492,Little Rock,Arkansas,1987.0,34.7465,-92.2896
+2493,Little Rock,Arkansas,1980.0,34.7465,-92.2896
+2494,Little Rock,Arkansas,,34.7465,-92.2896
+2495,Jacksonville,Arkansas,1990.0,34.8662,-92.1101
+2496,Hamburg,Arkansas,1987.0,33.2282,-91.7976
+2497,Hamburg,Arkansas,,33.2282,-91.7976
+2498,Fort Smith,Arkansas,2007.0,35.3872,-94.4249
+2499,Fort Smith,Arkansas,1996.0,35.3872,-94.4249
+2500,Fort Smith,Arkansas,1986.0,35.3872,-94.4249
+2501,Fort Smith,Arkansas,1979.0,35.3872,-94.4249
+2502,Fordyce,Arkansas,1999.0,33.8137,-92.4129
+2503,Fayetteville,Arkansas,2008.0,36.0626,-94.1574
+2504,El Dorado,Arkansas,2011.0,33.2076,-92.6663
+2505,Crossett,Arkansas,2011.0,33.1282,-91.9612
+2506,Cotton Plant,Arkansas,1976.0,35.0081,-91.2512
+2507,Conway,Arkansas,1967.0,35.0887,-92.4421
+2508,Cherry Valley,Arkansas,1990.0,35.402,-90.7532
+2509,Blytheville,Arkansas,1983.0,35.9273,-89.919
+2510,Blytheville,Arkansas,,35.9273,-89.919
+2511,Altheimer,Arkansas,1972.0,34.3193,-91.8474
+2512,Tucson,Arizona,2015.0,32.2217,-110.9265
+2513,Tucson,Arizona,1990.0,32.2217,-110.9265
+2514,Tucson,Arizona,1986.0,32.2217,-110.9265
+2515,Tempe,Arizona,2015.0,33.4144,-111.9094
+2516,Phoenix,Arizona,2009.0,33.4486,-112.0773
+2517,Phoenix,Arizona,1987.0,33.4486,-112.0773
+2518,Phoenix,Arizona,1985.0,33.4486,-112.0773
+2519,Phoenix,Arizona,1977.0,33.4486,-112.0773
+2520,Mesa,Arizona,2011.0,33.4153,-111.8313
+2521,Las Vegas,Arizona,2014.0,36.1637773,-115.2072106
+2522,Clemenceau,Arizona,1950.0,34.7319656,-112.0265462
+2523,Anchorage,Alaska,2009.0,61.2163,-149.8949
+2524,White Hall,Alabama,1997.0,32.3271,-86.7119
+2525,Vredenburgh,Alabama,1975.0,31.8285,-87.3217
+2526,Tuskegee,Alabama,1994.0,32.424,-85.6916
+2527,Tuskegee,Alabama,1986.0,32.424,-85.6916
+2528,Tuskegee,Alabama,1983.0,32.424,-85.6916
+2529,Tuskegee,Alabama,,32.424,-85.6916
+2530,Tuscaloosa,Alabama,1990.0,33.2096,-87.5675
+2531,Town Creek,Alabama,1982.0,34.6812,-87.4061
+2532,Sylacauga,Alabama,2002.0,33.1732,-86.2516
+2533,Selma,Alabama,1960.0,32.4079,-87.0207
+2534,Phenix City,Alabama,1976.0,32.471,-85.0008
+2535,Perry,Alabama,1981.0,32.598888,-87.30161319999999
+2536,Opelika,Alabama,1997.0,32.6454,-85.3783
+2537,Montgomery,Alabama,2015.0,32.367,-86.3006
+2538,Montgomery,Alabama,1993.0,32.367,-86.3006
+2539,Montgomery,Alabama,1989.0,32.367,-86.3006
+2540,Montgomery,Alabama,1981.0,32.367,-86.3006
+2541,Montgomery,Alabama,1980.0,32.367,-86.3006
+2542,Montgomery,Alabama,1976.0,32.367,-86.3006
+2543,Mobile,Alabama,2011.0,30.6488,-88.1946
+2544,Mobile,Alabama,2007.0,30.6488,-88.1946
+2545,Mobile,Alabama,1996.0,30.6488,-88.1946
+2546,Mobile,Alabama,1991.0,30.6488,-88.1946
+2547,Mobile,Alabama,1989.0,30.6488,-88.1946
+2548,Mobile,Alabama,1987.0,30.6488,-88.1946
+2549,Mobile,Alabama,1984.0,30.6488,-88.1946
+2550,Mobile,Alabama,1978.0,30.6488,-88.1946
+2551,Leighton,Alabama,1977.0,34.7009,-87.5289
+2552,Leeds,Alabama,,33.5482,-86.5444
+2553,Knoxville,Alabama,1979.0,32.9923,-87.7906
+2554,Huntsville,Alabama,2009.0,34.7298,-86.5859
+2555,Huntsville,Alabama,1982.0,34.7298,-86.5859
+2556,Huntsville,Alabama,1979.0,34.7298,-86.5859
+2557,Hartselle,Alabama,1973.0,34.4438,-86.9359
+2558,Harpersville,Alabama,1994.0,33.344,-86.43799999999999
+2559,Goodwater,Alabama,2008.0,33.0657,-86.0533
+2560,Fort Rucker,Alabama,1981.0,31.3428,-85.7154
+2561,Fort Rucker,Alabama,,31.3428,-85.7154
+2562,Elba,Alabama,1969.0,31.4146,-86.0677
+2563,Dothan,Alabama,1988.0,31.2232,-85.3905
+2564,Demopolis,Alabama,1996.0,32.5178,-87.8368
+2565,Demopolis,Alabama,1980.0,32.5178,-87.8368
+2566,Crenshaw,Alabama,1995.0,31.6671872,-86.3376761
+2567,Clayton,Alabama,1973.0,31.8782,-85.4497
+2568,Centreville,Alabama,1991.0,32.9446,-87.1386
+2569,Brantley,Alabama,1987.0,31.5824,-86.2572
+2570,Birmingham,Alabama,2012.0,33.5207,-86.8024
+2571,Birmingham,Alabama,2011.0,33.5207,-86.8024
+2572,Birmingham,Alabama,2010.0,33.5207,-86.8024
+2573,Birmingham,Alabama,1995.0,33.5207,-86.8024
+2574,Birmingham,Alabama,1990.0,33.5207,-86.8024
+2575,Birmingham,Alabama,1987.0,33.5207,-86.8024
+2576,Birmingham,Alabama,1984.0,33.5207,-86.8024
+2577,Birmingham,Alabama,1983.0,33.5207,-86.8024
+2578,Birmingham,Alabama,1982.0,33.5207,-86.8024
+2579,Birmingham,Alabama,1981.0,33.5207,-86.8024
+2580,Birmingham,Alabama,1980.0,33.5207,-86.8024
+2581,Birmingham,Alabama,1976.0,33.5207,-86.8024
+2582,Birmingham,Alabama,1974.0,33.5207,-86.8024
+2583,Birmingham,Alabama,1970.0,33.5207,-86.8024
+2584,Birmingham,Alabama,1966.0,33.5207,-86.8024
+2585,Birmingham,Alabama,,33.5207,-86.8024
+2586,Bessemer,Alabama,1972.0,33.4018,-86.9544
+2587,Athens,Alabama,1991.0,34.8029,-86.9717
+2588,Anniston,Alabama,1994.0,33.6594,-85.8316
+2589,Andalusia,Alabama,1993.0,31.3085,-86.4832
+2590,Abbeville,Alabama,2001.0,31.5718,-85.2505

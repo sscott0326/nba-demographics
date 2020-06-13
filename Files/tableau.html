@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.12.0/de.min.js"></script>
+    <script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+
+    <title>NBA Birth Cities</title>
+</head>
+
+<body onload="initViz();">
+    <div id="vizContainer" style="width:800px; height:700px;"></div>
+
+    <script>
+        function initViz() {
+            var containerDiv = document.getElementById("vizContainer"),
+                url = "http://public.tableau.com/views/NBAPlayerBirthCities/Sheet1"
+            options = {
+                hideTabs: true,
+                onFirstInteractive: function() {
+                    console.log("Run this code when the viz has finished loading.");
+                }
+            } ;
+
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+</body>
+</html>
